@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="লালাখাল, সিলেট"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="লালাখাল (Lalakhal) সিলেট  শহর থেকে ৩৫ কিলোমিটার দূরে জৈন্তাপুর উপজেলায় অবস্থিত। ভারতের চেরাপুঞ্জির ঠিক নিচেই লালাখালের অবস্থান। চেরাপুঞ্জি পাহাড় থেকে উৎপন্ন এই নদী বাংলাদেশের মধ্য দিয়ে প্রবাহিত। প্রকৃতিকে খুব কাছ থেকে অনুভব করার জন্য স্থানটি বেশ উপযোগী। পাহাড়ে ঘন সবুজ বন, নদী, চা-বাগান ও নানা জাতের বৃক্ষের সমাহার লালাখালজুড়ে। যদি ভরা পূর্ণিমায় যেতে পারেন তাহলে জ্যোৎস্না ধোয়া নদীর রূপ সারাজীবন মনে রাখার মত একটা ঘটনা হবে। লালাখাল নদীতে অসংখ্য বাঁকের দেখা মেলে। প্রতিটি বাঁকই দেখার মতো সুন্দর। পাহাড়গুলোকে দেখলে মনে হয়, কেউ যেন নিজ হাতে থরেথরে একের পর একটি করে সাজিয়ে রেখেছে। এখানে পাহাড়ের গায়ে মেঘ জমা হয়। একটু কাছ থেকে দেখা যায়, মেঘেরা দল বেঁধে পাহাড়ের গায়ে ঠেস লাগিয়ে থেমে থাকে। আবার কখনো দুই পাহাড়ের মাঝখান দিয়ে সবার অলক্ষ্যে হারিয়ে যায়। \n
+লালাখাল এর তামাবিল রোডের কাছের অংশের নাম সারি নদী। এই খালের সবচেয়ে আকর্ষণীয় যে বিষয় তা হচ্ছে বিভিন্ন কালারের পানি। খালের একেক অংশে একেক ধরনের কালার। যেমন নীল, সবুজ ও স্বচ্ছ পানি। সারি নদীর স্বচ্ছ জলরাশির উপর দিয়ে নৌকা অথবা স্পীডবোটে করে আপনি যেতে পারেন লালাখালে। ৪৫ মিনিট যাত্রা শেষে আপনি পৌঁছে যাবেন লালাখাল চা বাগানের ফ্যাক্টরি ঘাটে। এসময় মুগ্ধ দৃষ্টিতে তাকিয়ে থাকবেন নদীর পানির দিকে। কি সুন্দর নীল, একদম নিচে দেখা যায়। ভারতের চেরাপুঞ্জির ঠিক নিচেই লালাখালের অবস্থান । রাতের সৌন্দর্যে ভরপুর এই লালাখাল সিলেট জেলার জৈন্তাপুর উপজেলার সন্নিকটে অবস্থিত।লালাখাল এলাকায় পর্যটকদের থাকার কোন জায়গা নেই। আর সিলেট শহর থেকে বেশ দূরে। সন্ধ্যার দিকে নদীতে কোন নৌকা থাকে না, তাই ভ্রমণ বা ঘোরাঘুরি সন্ধ্যার মধ্যেই শেষ করতে হয়। সবচেয়ে ভালো হয় নৌকা ভাড়া নিয়ে যাতায়াত করলে। লালাখালের চারপাশে সন্ধ্যার আগ মুহূর্তটা আরো অবিস্মরণীয়। লালাখালে যেতে হলে, সিলেট নগরীর ধোপাদিধীর দক্ষিণপারস্থ ওসমানী শিশু উদ্যানের (শিশু পার্ক) সামনে থেকে মাইক্রবাস , লেগুনা অথবা জাফলংয়ের বাসে যেতে হবে সারিঘাট। তাই পাড়ি দিতে হবে ৩৫ কি.মি রাস্তা। ফেরার পথে এখান থেকে বাসে কিংবা টেম্পুসহ পছন্দমতো যেকোন বাহনে ফিরে আসতে পারবেন সিলেট নগরীতে।
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="লালাখাল কখন বেড়াতে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="লালাখাল বেড়ানোর উপযুক্ত সময় শীতকাল। শীতের সময়টায় আপনি পাবেন চমৎকার নীল জলরাশি। বর্ষার স্রোত থাকে না তখন। তাই পানি শান্ত, স্বচ্ছ। একেবারে যেন নদীর তলদেশ দেখা যায় উপর থেকে। ভাবা যায় না যে পানি এত স্বচ্ছ হতে পারে! বর্ষায় স্রোতের সময় পানির রং হারিয়ে যায়। শীতের সময় বোনাস হিসেবে দেখতে পাবেন হরেক রকম শীতের পাখি।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কিভাবে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="লালাখালে যেতে হলে সিলেটের শিশু পার্কের সামনে থেকে লেগুনা অথবা জাফলংয়ের বাসে চেপে সিলেট-তামাবিল সড়ক ধরে যেতে হবে সারিঘাট। সিলেট আর জাফলং মাঝামাঝি এ স্থানটির নাম সারিঘাট। আগেই বলা হয়েছে, যাওয়ার জন্য পথ দুটি সড়কপথ ও নৌপথ। সড়ক পথে যেতে চাইলে মাইক্রোবাস বা কার ভাড়া নিলে ভালো হয়। তা ছাড়া সিলেট শহর থেকে বাস, লেগুনায় সারিঘাট গিয়ে সিএনজিচালিত অটোরিকশা ভাড়া নিতে পারেন। নৌপথে যেতে চাইলে আগে সারিঘাট পর্যন্ত একই নিয়মে বাস, লেগুনায় গিয়ে নৌযান ভাড়া নিতে হবে। ফেরার পথে এখান থেকে বাসে কিংবা লেগুনায় আসতে পারবেন। রাত ৮টা নাগাদ যানবাহন পাওয়া যাবে।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="আপনি চাইলে পারবেন লালাখাল এর পাড়ে রাত কাটাতে। নর্দার্ন রিসোর্ট নামে রিসোর্টটির নিজেদের পরিবহন ব্যবস্থাও আছে। \n
+আরেকটি আবাসন ব্যবস্থা হলো নাজিমগড় রিসোর্ট (Nazimgarh Resorts) যা লালাখাল এর খুব কাছে খাদিমনগরে অবস্থিত। আগে থেকে যোগাযোগ করে যাওয়া ভাল। নাহলে রিসোর্টে রুম নাও মিলতে পারে। নাজিমগড় রিসোর্টে থাকার জন্য আছে তিন ধরনের ব্যবস্থা। আছে বিশাল টেরেস, ছোট ছোট বাংলো ও বড় ভিলা। একেকটির ভাড়া একেক রকম, তবে আধুনিক সুযোগ-সুবিধায় পাঁচতারা হোটেলের সমান। আছে স্পা ও পুল, যেখানে দূর করতে পারেন শরীরের অবসাদ। সবচেয়ে বড় কথা প্রতিটি স্থাপনাই গাছপালা-জঙ্গলে ছাওয়া টিলার ধারে। ভিলা, টেরেস বা বাংলোর বারান্দায় বসে হাত বাড়ালেই যেন পাওয়া যায় গাছগাছালির ছোঁয়া। সাধারণ হোটেল-কটেজের চেয়ে নাজিমগড়ে থাকার খরচটা একটু বেশিই মনে হবে। এক রাতের জন্য সবচেয়ে কমদামি ‘প্রিমিয়ার’ কক্ষের ভাড়া পড়বে প্রায় ৭ হাজার টাকা, আর প্রেসিডেন্সিয়াল স্যুইটের ভাড়া প্রায় ১৫ হাজার। এক কক্ষে থাকতে পারবেন সর্বোচ্চ ৩ জন, তবে ৮ বছরের নিচের শিশুর জন্য ভাড়া লাগবে না। এ ভাড়ার মধ্যে পাবেন দুজনের সকালের নাশতা। \n
+এ ছাড়া সিলেট শহরে রাত যাপন করে একদিনে মাত্র লালাখাল ঘুরতে পারেন। অথবা বিছনাকান্দি ও জাফলং যেকোনো একটার সঙ্গে মিলিয়ে বিকেলের ভ্রমণটা লালাখালে হতে পারে। সিলেট শহর থেকে বেশ দূর হওয়ায় সন্ধ্যার দিকে নদীতে কোনো নৌকা থাকে না। তাই ভ্রমণ বা ঘোরাঘুরি সন্ধ্যার মধ্যেই শেষ করতে হয়। সবচেয়ে ভালো হয় নৌকা ভাড়া নিয়ে যাতায়াত করলে।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="খরচ"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সিলেট  শহর থেকে শুধু লালাখালের জন্য মাইক্রোর ভাড়া দুই হাজার থেকে তিন হাজার টাকার মধ্যে হবে, গাড়ি নিলে ভাড়া এক হাজার ৫০০ থেকে দুই হাজার টাকার মধ্যে। সারা দিনের প্ল্যান হলে ভোরে সিলেট থেকে রওনা দিতে হবে। তা ছাড়া বাস কিংবা লেগুনায় ৪০ থেকে ৬০ টাকার মধ্যে সারিঘাট যেতে পারবেন। সেখানে ইঞ্জিনচালিত নৌকা ভাড়া ৮০০ থেকে এক হাজার ৫০০ টাকা আর স্পিডবোটে যেতে চাইলে ভাড়া এক হাজার ৫০০ থেকে দুই হাজার টাকা হতে পারে। নৌযানে কমপক্ষে ১৫ থেকে ২০ জনের বসার ব্যবস্থা আছে, ভাড়া একই।\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>

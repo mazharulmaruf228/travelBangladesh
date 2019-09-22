@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="চলন বিল"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="চলন বিল বাংলাদেশের সবচেয়ে বড় বিল এবং সমৃদ্ধতম জলাভূমিগুলির একটি। দেশের সর্ববৃহৎ এই বিলটি বিভিন্ন খাল বা জলখাত দ্বারা পরস্পর সংযুক্ত অনেকগুলি ছোট ছোট বিলের সমষ্টি। বর্ষাকালে এগুলি সব একসঙ্গে একাকার হয়ে প্রায় ৩৬৮.০০ বর্গ কিমি এলাকার একটি জলরাশিতে পরিণত হয়। বিলটি সংলগ্ন তিনটি জেলা নাটোর, পাবনা ও সিরাজগঞ্জ এর অংশ বিশেষ জুড়ে অবস্থান করছে। চলন বিল সিরাজগঞ্জ জেলার রায়গঞ্জ ও পাবনা জেলার চাটমোহর উপজেলা দুটির অধিকাংশ স্থান জুড়ে বিস্তৃত। এছাড়া সিরাজগঞ্জ জেলার তাড়াশ থানার তিন চতুর্থাংশই এ বিলের মধ্যে অবস্থিত। বিলটির দক্ষিণ-পূর্ব প্রান্ত পাবনা জেলার নুননগরের কাছে অষ্টমনীষা পর্যন্ত বিস্তৃত। এ জেলায় চলন বিলের উত্তর সীমানা হচ্ছে সিংড়ার পূর্ব প্রান্ত থেকে ভদাই নদী পর্যন্ত টানা রেখাটি যা নাটোর, পাবনা ও বগুড়া জেলার মধ্যবর্তী সীমানা নির্দেশ করে। ভদাই নদীর পূর্ব পাড়ে অবস্থিত তাড়াশ উপজেলা ও পাবনা জেলা বরাবর উত্তর-দক্ষিণমূখী একটি রেখা টানলে তা হবে বিলটির মোটামুটি পূর্ব সীমানা। বিলটির প্রশস্ততম অংশ উত্তর-পূর্ব কোণে তাড়াশ থেকে গুমনী নদীর উত্তর পাড়ের নারায়ণপূর পর্যন্ত প্রায় ১৩ কিমি বিস্তৃত। সিংড়া থেকে গুমনী পাড়ের কচিকাটা পর্যন্ত অংশে এটির দৈর্ঘ্য সবচেয়ে বেশি, ২৪ কিমি। \n
+চলন বিল গঠনকারী ছোট ছোট বিলগুলো হলো- পিপরূল, পূর্ব মধ্যনগর, লারোর, ডাঙাপাড়া,  তাজপুর, নিয়ালা, চলন, মাঝগাঁও, ব্রিয়াশো, চোনমোহন, শাতাইল, খরদহ, দারিকুশি, কাজীপাড়া,  গজনা, বড়বিল, সোনাপাতিলা, ঘুঘুদহ, কুরলিয়া, গুরকা, দিক্ষিবিল এবং চিরল। \n
+চলন বিলের মধ্য দিয়ে বেশ কয়েকটি নদী প্রবাহিত হয়। এর মধ্যে উল্লেখযোগ্য হলো- করতোয়া, আত্রাই, গুড়, বড়াল, মরা বড়াল, তুলসী, ভাদাই, চিকনাই, বরোনজা, তেলকুপি ইত্যাদি। \n
+চলন বিলে পাওয়া যায় বিভিন্ন প্রজাতির মাছ তার মধ্যে উল্লেখযোগ্য হলো- চিতল, কৈ, মাগুর, শিং, টাকি, বোয়াল, শোল, ফলই, রম্নই, মৃগেল, চিংড়ি, টেংরা, মৌসি, কালিবাউশ, রিটা, গজার,  বৌ, সরপুটি, তিতপুটি, পুঁটি, গুজা, গাগর, বাঘাইর কাঁটা প্রভৃতি জাতের মাছ। \n
+চলন বিল দেখার পরে দেখে নিতে পারেন চলনবিল জাদুঘরটিও। গুরুদাসপুর উপজেলার খুবজিপুর গ্রামে এ জাদুঘর। স্থানীয় শিক্ষক আব্দুল হামিদ ব্যক্তিগত প্রচেষ্টায় নিজ বাড়িতে ১৯৭৮ সালে গড়ে তুলেছেন ব্যতিক্রমী এ সংগ্রশালা। চলনবিলে প্রাপ্ত নানান নিদর্শন, মাছ ধরার বিভিন্ন সরঞ্জাম ছাড়াও এখানে আছে অনেক দুর্লভ সংগ্রহ। নাটোর থেকে বাসে গুরুদাসপুর উপজেলায় এসে সেখান থেকে নদী পার হয়ে রিকশায় আসা যাবে খুবজিপুর গ্রামের এই জাদুঘরে।
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="চলন বিল যাওয়ার উপায়"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="চলন বিল উত্তর বঙ্গের নাটোর, সিরাজগঞ্জ এবং পাবনা জেলার মধ্যে আবস্থিত বিধায় আপনি যদি সিলেট, ঢাকা অথবা চট্টগ্রাম বিভাগ থেকে আসতে চান তাহলে আপনাকে আসতে হবে ঢাকা হয়ে। ঢাকা থেকে রাজশাহীর গাড়িতে সিরাজগঞ্জ অথবা নাটোরের কাছিকাটা নামবেন। কাছিকাটা দিয়ে যাবার ক্ষেত্রে কাছিকাটা থেকে ৮ কি.মি দুরে চাচকৈর বাজার। চাচকৈর বাজার থেকে ৫-৬ কি. মি. দুরে চলনবিলের প্রান্ত ঘেষে খুবজীপুর গ্রামে গড়ে উঠা চলনবিল জাদুঘর। আর চলনবিল জাদুঘরের পরেই পাবেন সেই কাঙ্খিত চলনবিল । \n
+ঢাকা থেকে সিরাজগঞ্জ আসা যায় সড়ক ও রেল পথে। ঢাকার মহাখালী থেকে সৌরভ পরিবহন,  এস আই এন্টারপ্রাইজ,  গাবতলী থেকে ইউনিক বাস যায় সিরাজগঞ্জ। ভাড়া ১৭০ টাকা। এছাড়্‌ চট্টগ্রামের সিনেমা প্যালেস থেকে সিমান্ত সুপার সার্ভিস, দামপাড়া স্টেশন রোড থেকে ইউনিক সার্ভিস যায় সিরাজগঞ্জ। ভাড়া ৩৫০ টাকা। \n
+তাছাড়া ঢাকা থেকে ট্রেনে সদানন্দপুর স্টেশনে নেমে সেখান থেকে সাত কিলোমিটার দূরে সিরাজগঞ্জ শহর। ঢাকা থেকে আন্তঃনগর ট্রেন খুলনাগামী সুন্দরবন এক্সপ্রেস, রাজশাহীগামী সিল্কসিটি এক্সপ্রেস, পদ্মা ও লালমনি এক্সপ্রেস ট্রেনগুলো সদানন্দপুর স্টেশনে থামে। ভাড়া ১১০-১২৫ টাকা মাত্র। \n
+চলনবিলে বেড়ানোর জন্য স্থানীয় নৌকা পাওয়া যাবে ভাড়ায়। সারাদিনের জন্য ভালো মানের একটি নৌকার ভাড়া পড়বে ৫শ’ টাকা থেকে ৬শ’ টাকা। এছাড়া ইঞ্জিন নৌকা মিলবে ১ হাজার টাকা থেকে ২ হাজার টাকায়। সাঁতার না জানলে অবশ্যই লাইফ জ্যাকেট সঙ্গে নেবেন। নৌকায় ভ্রমণকালে হৈচৈ, লাফালাফি করবেন না।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সিরাজগঞ্জ শহরে থাকার জন্য ভালো মানের হোটেলগুলো হলো- শহরের স্বাধীনতা স্কোয়ারে হোটেল আল হামরা, (০১৭৪৫৬২৯২৬৪, ০৭৫১-৬৪৪১১) এসি এক শয্যা কক্ষ ৫০০ টাকা, এসি দ্বি-শয্যা কক্ষ ৭০০ টাকা, নন-এসি এক শয্যা কক্ষ ৪৫০, নন-এসি দ্বি-শয্যা কক্ষ ২৫০ টাকা পর্যন্ত। শেখ মুজিব রোড হোটেল অনিক (০১৭২১৭১৯২৩৫, ০৭৫১-৬২৪৪২) এসি এক শয্যা কক্ষ ৪৫০ টাকা, এসি দ্বি-শয্যা কক্ষ ৭০০ টাকা, নন-এসি এক শয্যা কক্ষ ১৫০, নন-এসি দ্বি-শয্যা কক্ষ ২৫০ টাকা মাত্র।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="জনসাধারণের জন্য পাহাড়পুরে থাকার কোন ব্যবস্থা নেই । দিনে যেয়ে দিনেই ফিরে আসতে হবে অথবা উপজেলা সদর/জেলা সদরে থাকা যাবে। তবে ভিআইপিদের থাকার জন্য নিকটে রেস্টহাউস আছে। নওগাঁয় থাকার জন্যে কয়েকটি হোটেল হলো – হোটেল ফারিয়াল, হোটেল অবকাশ, হোটেল রাজ, হোটেল যমুনা, হোটেল প্লাবণ, মুক্তির মোড়ে হোটেল আগমনী, হোটেল সরণি ও মোটেল চিসতী।\n\n
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="মৈনট ঘাট, দোহার"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="মৈনট ঘাট (Moinot Ghat) ঢাকার দোহারে অবস্থিত, যেখানে গেলে আপনি মুগ্ধ হবেন, বিস্ময় নিয়ে তাকিয়ে থাকবেন পদ্মা নদীর অপরূপ জলরাশির দিকে। এই বিশাল জলরাশি, পদ্মায় হেলেদুলে ভেসে বেড়ানো জেলেদের নৌকা দেখা আর পদ্মার তীরে হেটে বেড়ানো, সব মিলিয়ে কিছুক্ষণের জন্য আপনার মনে হবে আপনি এখন ঢাকার দোহারে নয়, কক্সবাজার সমুদ্র সৈকতে আছেন। মূলত এই কারণেই অনেকে মৈনট ঘাটকে বলে থাকেন মিনি কক্সবাজার। \n
+নবাবগঞ্জ রুটে মৈনট ঘাটে আসলে ইচ্ছা করলে পাশাপাশি দেখে যেতে পারবেন নবাবগঞ্জের জজবাড়ি, উকিলবাড়ি, আনসার ক্যাম্প, খেলারাম দাতার বাড়ি সহ আরও কিছু দর্শনীয় স্থান। ঢাকাবাসীরা চাইলে খুব সহজেই দোহারের এই ছোট কক্সবাজার মৈনট ঘাটে একটা ডে ট্রিপ দিতে পারেন।
+"
+        android:textColor="#000000"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:text="কখন যাবেন"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="মৈনট ঘাট ঘোরার উপযুক্ত সময় হচ্ছে বৃষ্টির সময় অথবা একটু ঠান্ডার সময় এবং অবশ্যই বিকেল বেলা। গ্রীষ্মের সময়ে এখানে বাদামের চাষ হয় এবং ঘাটের একপাশ জুড়ে বাদামের বিস্তীর্ণ ক্ষেত থাকে। আবার বর্ষার সময়ে পুরোটা পদ্মার পানিতে তলিয়ে যায়। সে এক দেখার মতো দৃশ্য। শুকনায় বা শীতের সময়েও এর সৌন্দর্যের কমতি নেই। তখন দেখা যাবে পদ্মা নদীর শান্ত রূপ। একটা সন্ধ্যায় পদ্মা নদীতে সূর্যাস্ত দেখলে পরবর্তী একশোটা সন্ধ্যার কথা মনে থাকবে। ঢাকার আশে পাশে হওয়ার কারনে প্রচুর মানুষ এখানে আসছে, ঘুরছে। স্পীডবোট, ট্রলার অথবা খেয়ানৌকা নিয়ে পদ্মার বুকে ভেসে বেড়াচ্ছে অনেকেই। এখানে মূল আকর্ষণই হচ্ছে ঘাটের থেকে ট্রলার/নৌকা ভাড়া করে ওপাড়ে গিয়ে সূর্যাস্ত উপভোগ করা।"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:paddingRight="10dp"
+        android:text="খরচ"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="স্পীডবোটে মৈনট ঘাট থেকে ফরিদপুরের চর ভদ্রাসন যেতে হলে ১৬০ টাকা করে গুনতে হবে জনপ্রতি। ১০ থেকে ১২ জন নিয়ে চলতে পারবে। স্পীডবোটে মৈনট ঘাট থেকে চর ভদ্রাসন যেতে সাধারণত সময় লাগে ১৬ থেকে ১৭ মিনিট। পদ্মায় ঢেউ থাকলে ২০ মিনিট। মৈনট ঘাটের একজন স্পীডবোট চালক মোহাম্মদ আকাশের ভাষ্যমতে ২০ মিনিটের জন্য স্পীডবোট রিজার্ভ করে পদ্মায় ভেসে বেড়াতে চাইলে গুনতে হবে ২০০০ টাকা। কয়েকজন মিলে শেয়ারে ভাড়া করলে ভালো হবে। আর দশ মিনিটের জন্য একহাজার টাকা। ট্রলার রিজার্ভ করে পদ্মায় ঘুরতে চাইলে ১ ঘন্টার জন্য ৫০০ থেকে ১০০০ টাকা গুনতে হবে। অবশ্যই দামাদামি করে নেবেন। ট্রলারের তথ্য পাওয়া গেছে ট্রলার চালক রুবেলের নিকট থেকে। নৌকা চালক শহিদুল ইসলামের দেওয়া তথ্য অনুযায়ী ইঞ্জিনযুক্ত ছোট নৌকা নিয়ে ঘুরতে চাইলে ১ ঘন্টায় ৩০০ থেকে ৬০০ টাকা গুনতে হবে।"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="মৈনট ঘাট যাওয়ার উপায়"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="ঢাকা থেকে মৈনট ঘাটে আসার সবচেয়ে সুবিধাজনক উপায়টি হচ্ছে গুলিস্তানের গোলাপ শাহের মাজারের সামনে থেকে সরাসরি মৈনট ঘাটের উদ্দেশ্যে ছেড়ে আসা যমুনা পরিবহনে চেপে বসা। ৯০ টাকা ভাড়া আর দের থেকে আড়াই ঘন্টার বিনিময়ে আপনি পৌঁছে যাবেন মৈনট ঘাট। ফেরার সময় একই বাসে আবার ঢাকা চলে আসবেন। মৈনট থেকে ঢাকার উদ্দেশ্যে শেষ বাসটি ছেড়ে যায় সন্ধ্যা ৬ টায়। \n
+গুলিস্তানের একই স্থান থেকে এন মল্লিক পরিবহনেও আসতে পারবেন। এক্ষেত্রে আপনাকে নামতে হবে নবাবগঞ্জের মাঝিরকান্দা নামক স্থানে। ভাড়া ৭০ টাকা। মাঝিরকান্দা থেকে লোকাল অটোতে দোহারের বাশতলা। ভাড়া ১৫ টাকা। চাইলে লক্ষীপ্রসাধ নামক স্থানে নেমে পোদ্দারবাড়ি নামক পুরনো বাড়িটিও দেখে নিতে পারেন। আর জজবাড়ি, উকিলবাড়ি, কোকিলপ্যারি দালান, খেলারাম দাতার বাড়ি যাকে স্থানীয়ভাবে আন্ধার কোঠা বলা হয়, এইসব দর্শনীয় স্থানগুলো ঘুরে দেখতে চাইলে মাঝিরকান্দার আগে কলাকোপা নামক স্থানেই নামতে হবে। যাইহোক, মাঝিরকান্দা থেকে বাশতলা আসার পর কার্তিকপুরগামী আরেক লোকাল অটোতে উঠতে হবে। ভাড়া ১৫ টাকা। কার্তিকপুর বাজার থেকে আরেক অটোতে মৈনট ঘাট। ভাড়া ১০ টাকা। রিক্সায় গেলে ২০ টাকা। \n
+গুলিস্তানের ফুলবাড়িয়া থেকে নগর পরিবহনেও আসতে পারবেন। ভাড়া ৯০ টাকা। নগর পরিবহন নবাবগঞ্জের রুট ব্যবহার করে না। এই বাসটি আসে মুন্সিগঞ্জ হয়ে। এক্ষেত্রে আপনাকে কার্তিকপুর বাজারে নামতে হবে। ঢাকার বাবুবাজার ব্রীজ পার হয়ে কদমতলী থেকে সিনজিতেও আসতে পারবেন। লোকাল সিএনজি কদমতলী থেকে জনপ্রতি ১৮০ টাকা থেকে ২০০ টাকা ভাড়া নিয়ে কার্তিকপুর বাজার পর্যন্ত আসে। এছাড়াও যমুনা পরিবহন অথবা এন মল্লিক পরিবহন গুলিস্তানের যেই স্থান থেকে ছাড়ে, একই স্থান থেকে জয়পাড়া পরিবহন নামক মিনিবাসটিও ছেড়ে আসে দোহারের জয়পাড়ার উদ্দেশ্যে। \n
+যারা প্রাইভেট কার অথবা বাইক নিয়ে আসতে চাচ্ছেন তারা এই বাসের রুটটাকে ব্যবহার করতে পারেন। আসতে সুবিধা হবে। এটি বাবুবাজার ব্রীজ পার হয়ে কদমতলী থেকে নবাবগঞ্জের রুট ধরে টিকরপুর-গালিমপুর হয়ে দোহারের প্রাণকেন্দ্র জয়পাড়া পর্যন্ত আসে। আগে এই বাসটি সরাসরি মৈনট ঘাট পর্যন্ত আসতো। কয়েক বছর ধরে জয়পাড়ার পরে আর আসছে না। লক্কর-ঝক্কর এই মিনিবাসে গুলিস্তান থেকে জয়পাড়া পর্যন্ত আসতে হলে ভাড়া দিতে হবে ৬০ থেকে আশি টাকা। দামাদামি করার সুব্যবস্থা আছে। জয়পাড়া থেকে কার্তিকপুর লোকাল অটো ভাড়া ২০ টাকা। ঢাকার মোহাম্মদপুর থেকেও আসার একটা পদ্ধতি আছে। মোহাম্মদপুর বেরিবাধের সিএনজি স্টেশন থেকে আটিবাজার, আটিবাজার থেকে সিএনজি অথবা একপ্রকার ছাদহীন টেম্পুতে কোনাখোলা। কোনাখোলা থেকে দোহার-নবাবগঞ্জগামী যেকোনো একটা বাসে উঠে পড়তে হবে। যারা গাবতলি অথবা সাভারের আশেপাশে থাকেন, তারা হেমায়েতপুর থেকে লোকাল সিএনজিতে সরাসরি নবাবগঞ্জ আসতে পারবেন। ভাড়া ১২০ টাকা। অথবা সরাসরি সিএনজি না পেলে হেমায়েতপুর থেকে হযরতপুর, হযরতপুর থেকে পারাগ্রাম, নৌকায় নদী পার হয়ে আরেক সিএনজিতে নবাবগঞ্জ সদর।
+"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="কোথায় খাবেন"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="বেশিরভাগ মানুষেরই ইচ্ছা থাকে পদ্মার তীরে বসে পদ্মার সেই নামকরা ইলিশ খাওয়ার। মৈনট ঘাটে দু’টি ভাতের হোটেল আছে। একটি আতাহার চৌধুরীর হোটেল অপরটি জুলহাস ভূঁইয়ার হোটেল। আতাহার চৌধুরীর হোটেলে ইলিশ ৬০ থেকে ৯০ টাকা। বড় সাইজের ইলিশ খেতে চাইলে আগেই অর্ডার দিতে হবে। এছাড়াও বোয়াল ৮০ থেকে ১০০ টাকা, চিংড়ি ৬০ থেকে আশি টাকা। ভাত ১০ টাকা প্লেট। আর কার্তিকপুর বাজারে শিকদার ফাস্টফুড নামক একটা খাবারের দোকান আছে, ঢাকা হোটেল সহ আরও কিছু ভাতের হোটেলও আছে। আর একটা গুরুত্বপূর্ণ কথা হলো, কার্তিকপুরের ঐতিহ্যবাহী মিষ্টি খেতে ভুলবেন না। এখানকার মিষ্টি অনেকে বিদেশেও পাঠায়। \n
+নিরাঞ্জন মিষ্টান্ন ভান্ডার, মুসলিম সুইটস, রনজিৎ মিষ্টান্ন ভান্ডার সহ আরও কিছু মিষ্টির দোকান আছে এখানে। ছানার রসগোল্লা ১৮০ টাকা থেকে ২০০ টাকা কেজি। সাধারণ রসগোল্লা ১৫০ টাকা কেজি। চমচম ও কালোজাম ১৬০ টাকা কেজি। বালুশা ১৪০ টাকা কেজি। জিলাপি ১০০ টাকা কেজি। রসমালাই ৩০০ টাকা কেজি। দধি ১৪০ টাকা কেজি।
+"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="সতর্কতা"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="সাঁতার না জানলে গোসল করার সময় পদ্মার বেশি গভীরে যাবেন না। সিগারেট অথবা খাবারের প্যাকেট, পানির বোতল অথবা যেকোনো প্রকার ময়লা যেখানে সেখানে ফেলবেন না। পাখি মারা থেকে বিরত থাকুন। যার তার সামনে সিগারেট ফোঁকা থেকে বিরত থাকুন। দোকানদার, নৌকাচালক সহ সবার সাথে মার্জিত ব্যবহার করুন। এদেরকে ছোট করে দেখবেন না। খেয়াল রাখুন নিজের কোনো আচরণের দ্বারা কোনো মেয়ে বিরক্ত হলো কিনা। কেউ মেয়েদের প্রতি অসম্মান প্রদর্শন করলে অথবা যেকোনো প্রকার সাহায্যের জন্য মৈনট ঘাটের একটু পাশেই অবস্থিত পুলিশ ফাঁড়িতে যোগাযোগ করুন।\n\n"
+        android:textColor="@color/textColor"
+
+
+        />
+
+</LinearLayout>

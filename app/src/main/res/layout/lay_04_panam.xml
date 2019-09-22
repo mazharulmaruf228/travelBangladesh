@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="পানাম নগর"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="পানাম নগর (Panam City) পৃথিবীর ১০০টি ধ্বংসপ্রায় ঐতিহাসিক শহরের একটি যা নারায়ণগঞ্জ জেলার সোনারগাঁও এ অবস্থিত। পানাম বাংলার প্রাচীনতম শহর। এক সময় ধনী হিন্দু সম্প্রদায়ের লোকদের বসবাস ছিল এখানে। ছিল মসলিনের জমজমাট ব্যবসা। প্রাচীন সেই নগরীর তেমন কিছু আর অবশিষ্ট নেই। এখন আছে শুধু ঘুরে দেখার মতো ঐতিহাসিক পুরনো বাড়িগুলো। World Monument Fund ২০০৬ সালে পানাম নগরকে বিশ্বের ধ্বংসপ্রায় ১০০টি ঐতিহাসিক স্থাপনার তালিকায় প্রকাশ করে। ঈসা খাঁ এর আমলের বাংলার রাজধানী পানাম নগর। বড় নগর, খাস নগর, পানাম নগর -প্রাচীন সোনারগাঁর এই তিন নগরের মধ্যে পানাম ছিলো সবচেয়ে আকর্ষণীয়। এখানে কয়েক শতাব্দী পুরনো অনেক ভবন রয়েছে, যা বাংলার বার ভূইয়াঁদের ইতিহাসের সাথে সম্পর্কিত। ঢাকার খুব কাছেই ২৭ কি.মি দক্ষিণ-পূর্বে নারায়নগঞ্জ এর খুব কাছে সোনারগাঁতে অবস্থিত এই নগর। সোনারগাঁর ২০ বর্গকিলোমিটার এলাকাজুড়ে এই নগরী গড়ে ওঠে। ঐতিহাসিকভাবে এটি অত্যন্ত গুরুত্বপূর্ণ একটি শহর। জানা যায়, ১৪০০ শতাব্দীতে এখানে একটি বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় যেখানে পৃথিবীর নামি-দামি শিক্ষকরা পড়াতে আসতেন। এখানে একটি ভৃত্য বাজার ছিল বলে জানা যায়। \n
+পানাম নগরী এর দুই ধারে ঔপনিবেশিক আমলের মোট ৫২টি স্থাপনা রয়েছে। এর উত্তরদিকে ৩১টি এবং দক্ষিণদিকে ২১টি স্থাপনা অবস্থিত। স্থাপনাগুলোর স্থাপত্যে ইউরোপীয় শিল্পরীতির সাথে মোঘল শিল্পরীতির মিশ্রণ লক্ষ করা যায়। পানাম নগরী নিখুঁত নকশার মাধ্যমে নির্মাণ করা হয়েছে। প্রায় প্রতিটি বাড়িতেই কূপসহ আবাস উপযোগী নিদর্শন রয়েছে। নগরীর পানি সরবরাহের জন্য দুপাশে খাল ও পুকুরের অবস্থান লক্ষ করা যায়। এখানে আবাসিক ভবন ছাড়াও উপাসনালয়, গোসলখানা, পান্থশালা, দরবার কক্ষ ইত্যাদি রয়েছে। পানাম নগরের আশে পাশে আরো কিছু স্থাপনা আছে যেমন- ছোট সর্দার বাড়ি, ঈশা খাঁর তোরণ, নীলকুঠি, বণিক বসতি, ঠাকুর বাড়ি, পানাম নগর সেতু ইত্যাদি। এখানে আরো আছে চমৎকার একটি লোকশিল্প যাদুঘর।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="পানাম সিটি যাওয়ার উপায়"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ঢাকা হতে পানাম নগর এর মোট দূরত্ব ২৭ কি.মি যা সোনারগাঁ লোক ও কারুশিল্প ফাউন্ডেশন জাদুঘর হতে ০.৫ কি.মি. উত্তরে অবস্থিত। যে কেউ প্রাইভেটকার অথবা মাইক্রোবাস নিয়ে সরাসরি পানাম নগর যেতে পারবেন। আর যদি বাসে যেতে চান তাহলে গুলিস্তান থেকে বাসে ঢাকা-চট্টগ্রাম মহাসড়কের সোনারগাঁ মোগড়াপাড়া চৌরাস্তায় এসে নামতে হবে। সেখান থেকে রিকশা/অটোরিক্সাযোগে পানাম সিটি যেতে হবে। মোগড়াপারা বাসষ্ট্যান্ড থেকে প্রায় ২কি:মি: অভ্যন্তরে পানাম নগরী। সুতরাং যে কেউ বাস, মিনিবাস বেবিট্যক্সি, মোটর সাইকেলসহ যেকোনো ধরনের বাহনেই সেখানে যেতে পারেন।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ঢাকার আশে পাশে হবার কারনে আপনি দিনে যেয়ে দিনেই ফিরতে পারবেন, তাই ওখানে থাকার চিন্তা না করলেও হবে। এরপরও যদি আপনি নারায়নগঞ্জে রাত্রিযাপন করতে চান সেক্ষেত্রে আপনাকে নারায়নগঞ্জ সদরে এসে হোটেল নিতে হবে।\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>

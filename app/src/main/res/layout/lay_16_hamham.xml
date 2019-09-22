@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="হাম হাম ঝর্ণা ও মাধবপুর"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="চারিদিকে সুউচ্চ পাহাড়ের মাঝখানে অবস্থিত মাধবপুর লেকটি (Madhabpur Lake) সত্যি অপূর্ব। এটি মৌলভীবাজার শহর থেকে ৪০ কিলোমিটার দক্ষিণে ও শ্রীমঙ্গল থেকে ১০ কিলোমিটার পূর্বে অবস্থিত। লেকের ঝলমল পানি, ছায়া সুনিবিড় পরিবেশ, শাপলা শালুকের উপস্থিতি আরও মনোমুগ্ধকর করে তুলে। আস্তে আস্তে যতই সামনের দিকে এগুতে থাকবেন ততই ভাল লাগবে। মাধবপুর লেকে গিয়ে পৌঁছতেই সবুজ পাতার গন্ধ যে কারো মনকে চাঙ্গা করে তুলবে। চারদিকে সবুজ পাহাড়। পাশাপাশি উঁচু উঁচু টিলা। সমতল চা বাগানে গাছের সারি। মাধবপুর লেক যেন প্রকৃতির নিজ হাতে অঙ্কিত মায়াবী নৈসর্গিক দৃশ্য। সুনীল আকাশ আর গাঢ় সবুজ পাহাড়, শিল্পীর তুলিতে আঁকা ছবির মত চা বাগানের এই মনোরম দৃশ্য আকর্ষন করে নিয়ে যাবে ভিন্ন জগতে।\n
+কমলগঞ্জ উপজেলার মাধবপুর ইউনিয়নে পাত্রখলা চা বাগানে মাধবপুর লেকটির অবস্থান। খানাখন্দে ভরা চা বাগানের রাস্তা দিয়ে এ লেকে যেতে হয়। মাধবপুর লেকের ঝলমল পানি, ছায়া সুনিবিড় পরিবেশ, শাপলা শালুকের উপস্থিতি মনোমগ্ধকর অনুভূতি জন্মায়। দশটি বাঁক নিয়ে এঁকেবেঁকে পাহাড়ের ভেতর তার চলা। শীতকালে অতিথি পাখির দল আসে এই হ্রদে। হ্রদের জলে গোলপাতার ফাঁকে ফাঁকে ফুটে আছে নীল শাপলা। হ্রদের দুই পাশে টিলায় টিলায় ছড়ানো চায়ের গাছ। \n
+চা-বাগান কর্তৃপক্ষ চা-বাগানের টিলার নিচে লেকের পাড় ঘেঁষে হাঁটার জন্য সরু পথ করে দিয়েছে। টিলার ওপর আছে খড়ের তৈরি তাঁবু। মাধবপুর লেকে একসঙ্গে জল, পাহাড়, চা-বাগান – একটা বুনো নির্জনতা আছে। তবে সন্ধ্যা ছয়টার আগেই সেই জায়গাটি থেকে বেরিয়ে পড়তে হবে। সেটাই মাধবপুর চা-বাগান কর্তৃপক্ষের নির্দেশ। বীরশ্রেষ্ঠ সিপাহি হামিদুর রহমানের স্মৃতিসৌধের দূরত্ব মাধবপুর হ্রদ থেকে পাঁচ-ছয় কিলোমিটারের মতো। মুক্তিযুদ্ধের ইতিহাসের একটি গুরুত্বপূর্ণ অংশ এবং দেখতেও চমৎকার জায়গাটি এক ফাঁকে ঘুরে আসা যায়। এ ছাড়া এই কমলগঞ্জেই আছে বাংলাদেশের দ্বিতীয় সর্বোচ্চ হামহাম ঝর্ণা ।\n
+হাম হাম কিংবা হামহাম বা চিতা ঝর্ণা, বাংলাদেশের মৌলভীবাজার জেলার কমলগঞ্জ উপজেলার রাজকান্দি সংরক্ষিত বনাঞ্চলের গভীরে কুরমা বন বিট এলাকায় অবস্থিত একটি প্রাকৃতিক জলপ্রপাত। স্থানীয় বাসিন্দারা অনেকে একে হাম্মাম ঝর্না বলে ডাকে। লোকচক্ষুর অন্তরালে দীর্ঘদিন নিজের মহিমা লুকিয়ে রেখেছিল এই জলপ্রপাত। দূর্গম পথ আর লোকালয়ের বেশ বাইরে থাকার কারনে এতদিন এই জলপ্রপাতটি কারও চোখে পড়েনি। টলমলে স্বচ্ছ পানির ধারা গড়িয়ে পড়ছে শক্ত পাথরের মতো পাহাড়ের শরীর লেপটে। নির্জন, শান্ত পাহাড়ের প্রায় দেড় শ’ ফুট উঁচু থেকে আছড়ে পড়া স্রোতধারার কলকল শব্দ বয়ে যাচ্ছে সমতলে। নাম না জানা লতাপাতা, গুল্ম, বাঁশবন, বুনোফুল ও ফলের গাছ আগলে রেখেছে পরম মমতায় সৃষ্টির বিস্ময় এই ঝর্ণাটিকে। যে বুনো ঝর্ণার অপরূপ সৌন্দর্য থেকে চোখ ফেরানো যায় না সহজে।
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কখন যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ঝর্ণার যৌবন হলো বর্ষাকাল। বর্ষাকালে প্রচন্ড ব্যাপ্তিতে জলধারা গড়িয়ে পড়ে। শীতে তা কমে যেয়ে মাত্র একটি ঝর্ণাধারায় এসে ঠেকে।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কিভাবে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="মাধবপুর লেকে যেতে হলে প্রথমে ট্রেন বা বাসে করে শ্রীমঙ্গল অথবা কমলগঞ্জে আসতে হবে। ঢাকা থেকে রেল ও সড়ক পথে শ্রীমঙ্গল যাওয়া যায়। ঢাকার কমলাপুর থেকে মঙ্গলবার ছাড়া সপ্তাহের প্রতিদিন সকাল ৬টা ৪০ মিনিটে ছেড়ে যায় আন্তঃনগর ট্রেন পারাবত এক্সপ্রেস। দুপুর ২টায় প্রতিদিন ছাড়ে জয়ন্তিকা এক্সপ্রেস। বুধবার ছাড়া সপ্তাহের প্রতিদিন রাত ১০টায় ছাড়ে উপবন এক্সপ্রেস। ভাড়া ১১৫ টাকা থেকে ৭৬৫ টাকা।\n
+এছাড়া চট্টগ্রাম থেকে সোমবার ছাড়া প্রতিদিন সকাল সোয়া ৮টায় ছাড়ে পাহাড়িকা এক্সপ্রেস। শনিবার ছাড়া প্রতিদিন রাত ৯টায় ছাড়ে উদয়ন এক্সপ্রেস। ভাড়া ১৪০ টাকা থেকে ৯৪৩ টাকা।\n
+ঢাকার সায়েদাবাদ, কমলাপুর, আরামবাগ থেকে হানিফ, শ্যামলী, মামুন, ইউনিক ইত্যাদি পরিবহনে অথবা কমলাপুর রেল স্টেশন থেকে সিলেটগামী ট্রেনে করে শ্রীমঙ্গল এসে নামতে হবে। শ্যামলী পরিবহণ- ০২-৭৫৪০৯৯৩, ০২৭৫৫০০৭১। সোহাগ পরিবহণ – ০২-৯৩৪৪৪৭৭, ০১৭১১-৬১২৪৩৩। সৌদিয়া – ০১৯১৯-৬৫৪৮৫৮, ০১৯১৯-৬৫৪৮৬১।\n
+তারপর কমলগঞ্জের ভানুগাছ চৌমোহনা থেকে মাধবপুর লেক। ব্যক্তিগত গাড়ি কিংবা বাসে অথবা সিএনজি করে সেখানে যাওয়া যায়। আপনি চাইলে শ্রীমঙ্গল চা বাগানের দিক থেকেও সিএনজি ভাড়া করে চলে যেতে পারেন।\n
+হাম হাম ঝর্ণা যেতে হলে শ্রীমঙ্গল নেমে হোটেল নিয়ে নিলে ভাল করবেন। যদি রাতের গাড়ীতে আসেন তবে শ্রীমঙ্গল থেকে নাস্তা করে ৯ টার মধ্যে রওনা দিবেন। আর যদি দিনের গাড়ীতে রওনা হন তবে রাতে হোটেলে থেকে ভোরে হামহাম চলে যাবেন এবং পথে কুড়মা বাজারে নাস্তা সেরে নিবেন। শ্রীমঙ্গল হোটেলের আশেপাশে অনেক সিন.এন.জি পাবেন, আপনাকে শ্রীমঙ্গল থেকে যেতে হবে কলাবন পাড়া, ওদের হামহাম যাব বললেই হবে। আপ ডাউন ১৫০০ টাকার মতো নিবে। কলাবন পাড়া পৌছে ওখানে চা শ্রমিক রাই গাইড হিসেবে যায়, ২০০/৩০০ টাকা নিবে গাউড। গহীন এবং পাহাড়ি বনের ভেতরে প্রায় আড়াই ঘন্টা হাটতে হবে, বনের প্রায় সাড়ে ৭ কিলো ভেতরে হাম হাম। উচু পাহারে উঠতে হবে, তাই সাবধান থাকতে হবে। সাথে অবশ্যই লাঠি নিবেন ওখান থেকে, ৫ টাকা নেবে। লবন বা গুল নিবেন জোকের জন্যে। আসা যাওয়া নিয়ে প্রায় ৫ ঘন্টা হাটতে হবে।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="শ্রীমঙ্গলে থাকার জন্য সবচেয়ে ভালো মানের জায়গা ভানুগাছ সড়কে টি-রিসোর্ট (ফোনঃ ০১৭১২-৯১৬০০১ )। অন্যান্য থাকার জায়গার মধ্যে আছে— হোটেল গ্র্যান্ড সুলতান (পাঁচ তারকা) – ০১৫৫২-৬৮৩৪৫৪, রেইন ফরেস্ট রিসোর্ট (০১৯৩৮-৩০৫৭০৬), টি টাউন রেস্ট হাউস, হোটেল প্লাজা (৮৬২৬৫২৫, ০১৭১১-৩৩২৬০৫), বি.টি.আর.আই – ০৮৬২৬-৭১২২৫ ইত্যাদি। এসব হোটেল ও রিসোর্টের ভাড়া ৫শ’ টাকা থেকে ৫ হাজার ৫শ’ টাকা। \n
+এছাড়া শ্রীমঙ্গলের রাধানগরে চমৎকার দুটি রিসোর্ট হল নিসর্গ নিরব ইকো রিসোর্ট (০১৭১৫০৪১২০৭) এবং নিসর্গ লিচিবাড়ি ইকো রির্সোট (০১৭১৬৯৩৯৫৪০)। \n
+এছাড়াও কমদামি কিছু হোটেলও আছে যেখানে থাকতে পারেন, খরচ পরবে ৫০০/৮০০ টাকা। তবে হামহাম ঝর্না এলাকার আশেপাশে থাকার মতো তেমন ভালো ব্যবস্থা নেই। তবে নিজেকে যদি মানিয়ে নিতে পারেন তাহলে তৈলংবাড়ী কিংবা কলাবন পাড়াতে আদিবাসীদের ঘরে থাকতে পারেন।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় খাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="28dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="খাওয়ার জন্য সিলেটের জিন্দাবাজারে বেশ ভালো তিনটি খাওয়ার হোটেল আছে। হোটেল গুলো হচ্ছে পাঁচ ভাই,পানশি ও পালকি । এগুলোতে প্রায় ২৯ প্রকারের ভর্তা আছে।\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>

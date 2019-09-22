@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="বগা লেক"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বগা লেক (Boga Lake) যা সমুদ্র পৃষ্ঠ থেকে প্রায় ২৭০০ ফুট উঁচু পাহাড়ে প্রাকৃতিক ভাবে সৃষ্ট একটি লেক। ভূ-তত্ত্ববিদগণের মতে প্রায় দুই হাজার বছর আগে প্রাকৃতিক ভাবে পাহাড়ের চূড়ায় এই লেক তৈরি হয়। মৃত আগ্নেয়গিরির জ্বালামুখ কিংবা মহাশূন্য থেকে উল্কাপিণ্ডের পতনের ফলে সৃষ্টি হয়েছে। কেওকারাডাং এর কোল ঘেঁষে বান্দারবান শহর থেকে প্রায় ৭০ কিলোমিটার দূরে এবং রুমা উপজেলা সদর থেকে প্রায় ১৫ কিলোমিটার দূরে বগা লেক এর অবস্থান। পাহাড়ের উপরে প্রায় ১৫ একর জায়গা জুড়ে এই লেকের অবস্থান। শান্তজলের হ্রদ আকাশের কাছ থেকে একমুঠো নীল নিয়ে নিজেও ধারন করেছে সে বর্নিল রং। পাহাড়ের চুড়ায় নীল জলের আস্তর নীলকাশের সাথে মিশে তৈরি করেছে এক প্রাকৃতিক কোলাজ। মুগ্ধ নয়তে দেখতে হয় আকাশ পাহাড় আর জলের মিতালী। প্রকৃতি এখানে ঢেলে দিয়েছে একরাশ সবুজের ছোঁয়া। দুর্গম পথ পাড়ি দিয়ে আসার ক্লান্তি হারিয়ে যায় হ্রদের অতলগহ্বরে। সবকিছু মিলে এ যেন এক সুন্দরের লীলাভূমি।\n
+বগালেককে অনেকে ড্রাগনলেকও বলে থাকে। সকাল, সন্ধ্যা বা রাতে প্রতি বেলায়ই বগা লেক নতুন রূপে ধরা দেয়। সকালের উজ্জ্বল আলো যেমন বগা লেককে দেয় সিগ্ধ সতেজ রূপ। ঠিক তেমনি রাতের বেলায় দেখা যায় ভিন্ন এক মায়াবী হাতছানি। রাতের বগালেক দিনের বগা লেক হতে একেবারেই আলাদা। আর যদি রাতটি হয় চাঁদনী রাত তবে এটি হতে পারে আপনার জীবনের সেরা রাতের একটি। কি অসাধারণ সে রূপ। নিকষকালো অন্ধকার রাতে পাহাড়ের বুক চিড়ে হঠাৎ একফালি চাঁদ মৃদু আলোর ঝলক নিয়ে ঝাপিয়ে পড়ে বগালেকের শান্তজলে।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কখন যাবেন বগা লেক"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বর্ষাকালে রুমাগামী জীপ কইক্ষ্যংঝিড়ি পর্যন্ত যায় । তারপর ইঞ্জিন চালিত নৌকায় করে প্রায় ১ ঘন্টার অধিক পথ পাড়ি দিয়ে রুমা সদরে যেতে হয় । রুমা থেকে পায়ে হেটে অথবা জীপে করে বগালেক যেতে হয় । বর্ষা মৌসুমে বগা লেক যাওয়া নিতান্তই কষ্টসাধ্য। তাই বগা লেক ভ্রমনে শীতকালকে বেছে নেওয়া শ্রেয়।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="বগা লেক কিভাবে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="প্রথমে আপনাকে বান্দরবান শহরে যেতে হবে। ঢাকার বিভিন্ন স্থান থেকে প্রতিদিন বান্দরবানের উদ্দেশ্যে কয়েকটি পরিবহন কোম্পানির গাড়ি ছেড়ে যায়। যেমন শ্যামলি, হানিফ, ইউনিক, এস আলম, ডলফিন- এর যেকোনো একটি বাসে চড়ে আপনি বান্দরবানের যেতে পারেন। রাত ১০ টায় অথবা সাড়ে ১১টার দিকে কলাবাগান, সায়েদাবাদ বা ফকিরাপুল থেকে এসব বাস বান্দরবানের উদ্দেশে ছেড়ে যায়। নন এসি বাসে জন প্রতি ভাড়া ৫৫০ টাকা। এসি ৯৫০ টাকা। \n
+চট্টগ্রাম থেকে বান্দরবান যেতে পারেন। বদ্দারহাট থেকে বান্দারবানের উদ্দেশে পূবালী ও পূর্বানী পরিবহনের বাস যায়। এসব বাসে জনপ্রতি ২২০টাকা ভাড়া রাখা হয়।\n
+এবার আপনাকে বান্দরবন হতে চান্দেরগাড়ীতে করে যেতে হবে রুমা। রুমা বাজারে থাকার জন্য কিছু হোটেল আছে, তবে দিনের মধ্যেই বগালেক চলে যাওয়া উচিত, রুমা বাজারে অবশ্যই বিকাল ৪ টার মধ্যে পৌছাতে হবে, ৪ টার পরে সেনাবাহিনী আর নতুন কোন চান্দের গাড়ি বগা লেক এর উদ্দেশে রওনা দেওয়ার অনুমতি দেয় না।\n
+বান্দরাবন থেকে রুমা উপজেলা সদরে যেতে খরচ হবে জন প্রতি ৮০/- অথবা পুরো জীপ ভাড়া করলে ২২০০-২৫০০/- আর রুমা থেকে বগালেক যেতে জনপ্রতি ৮০-১০০/- অথবা পুরো জীপ ভাড়া করলে ২২০০-২৫০০/- পর্যন্ত ।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বগা লেক এ রেষ্ট হাউজ রিজার্ভেশন-এই নাম্বারে যোগাযোগ করতে পারেন (লারাম বম-০১৫৫২৩৭৬৫৫১)। তবে নেটওয়ার্ক স্বল্পতার কারনে বেশীরভাগ সময়ই নাম্বাটিতে সংযোগ করানো যায় না। এখানে পার্বত্য উন্নয়ন বোর্ডের একটি অত্যাধুনিক রেস্ট হাউজ নির্মাণাধীন রয়েছে। কিছূ দিনের মধ্যেই হয়তো সেখানে রাত্রিযাপন করার সুযোগ ঘটবে পযর্টকদের। এছাড়া সিয়াম দিদির হোটেলে থাকতে পারেন, ফোন – 01840721590\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>

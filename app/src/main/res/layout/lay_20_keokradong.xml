@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text=" কেওক্রাডং ও সাকাহাফং পর্বতশৃঙ্গ"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কেওক্রাডং পর্বতশৃঙ্গ"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="কেওক্রাডং (Keokradong) বাংলাদেশের পঞ্চম সর্বোচ্চ পর্বতশৃঙ্গ। এর উচ্চতা ৩১৭২ ফুট। এটি বাংলাদেশের বান্দরবানের রুমা উপজেলায় অবস্থিত। এক সময় এটিই বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ ছিল। যদিও আধুনিক গবেষণায় এই তথ্য ভুল প্রমাণিত হয়েছে। বর্তমানে বাংলাদেশের সর্বোচ্চ শৃঙ্গ সাকাহাফং বা মদক তুং। দূর থেকে কেওক্রাডংয়ের চূড়াকে ধোয়াটে মনে হয়। সাদা মেঘে ঢাকা। হওয়ায় ঝাপটায় দাঁড়ানো দায়। বৃষ্টি–বাতাস-মেঘ সময় সময় দখল নেয় চূড়ার আশপাশ।"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কিভাবে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="কেওক্রাডং যেতে হলে আপনাকে প্রথমে যেতে হবে বান্দরবান । ঢাকার বিভিন্ন স্থান থেকে প্রতিদিন বান্দরবানের উদ্দেশ্যে কয়েকটি পরিবহন কোম্পানির গাড়ি ছেড়ে যায়। যেমন শ্যামলি, হানিফ, ইউনিক, এস আলম, ডলফিন- এর যেকোনো একটি বাসে চড়ে আপনি বান্দরবানের যেতে পারেন। রাত ১০ টায় অথবা সাড়ে ১১টার দিকে কলাবাগান, সায়েদাবাদ বা ফকিরাপুল থেকে এসব বাস বান্দরবানের উদ্দেশে ছেড়ে যায়। নন এসি বাসে জন প্রতি ভাড়া ৫৫০ টাকা। এসি ৯৫০ টাকা। \n
+চট্টগ্রাম থেকে বান্দরবান যেতে পারেন। বদ্দারহাট থেকে বান্দারবানের উদ্দেশে পূবালী ও পূর্বানী পরিবহনের বাস যায়। এসব বাসে জনপ্রতি ২২০টাকা ভাড়া রাখা হয়।\n
+বান্দরবান শহর থেকে ১৫ টাকা অটো ভাড়া দিয়ে রুমা বাজার যাওয়ার বাসস্ট্যান্ড। প্রথম বাস সকাল ৮ টায়। প্রথম বাসটাই ধরার চেষ্টা করবেন। ভাড়া ১১০ টাকা। সময় লাগবে ২.৫ থেকে ৩ ঘন্টা। রুমা বাজার নেমে গাইডের সাথে আর্মি ক্যাম্পে সব দরকারি কাগজপত্রের কাজ শেষ করবেন। আর্মি ক্যাম্পের কাজ শেষে ল্যান্ডক্রুজার জিপ/চান্দের গাড়ি নিয়ে বগালেক যেতে হবে। ল্যান্ড ক্রুজারে ধারন ক্ষমতা ৭/৮ জন। ভাড়া ১৮০০ টাকা। চান্দের গাড়ির ভাড়া ২০০০ টাকা, ১৪/১৫ জনের মত যেতে পারবেন।\n
+বগালেকে আর্মি ক্যাম্পে পেপার জমা দিয়ে কেওক্রাডং এর উদ্দেশ্যে যাত্রা শুরু করতে হবে। স্যালাইন, শুকনা খাবার, পানি নিয়ে নিবেন। প্রায় ৮/৯ কিমি হাইক এবং বগালেক থেকে কেওক্রাডং এর এলিভেশন ডিফারেন্স প্রায় ২০০০ ফিট। হাটার উপর ডিপেন্ড করে ৪ ঘন্টার আশেপাশে সময় লাগবে কেওক্রাডং পৌছাতে।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বগা লেক এ রেষ্ট হাউজ রিজার্ভেশন-এই নাম্বারে যোগাযোগ করতে পারেন (লারাম বম-০১৫৫২৩৭৬৫৫১)। তবে নেটওয়ার্ক স্বল্পতার কারনে বেশীরভাগ সময়ই নাম্বাটিতে সংযোগ করানো যায় না। এখানে পার্বত্য উন্নয়ন বোর্ডের একটি অত্যাধুনিক রেস্ট হাউজ নির্মাণাধীন রয়েছে। কিছূ দিনের মধ্যেই হয়তো সেখানে রাত্রিযাপন করার সুযোগ ঘটবে পযর্টকদের। \n
+এছাড়া গাইডই আপনার জন্য কটেজ ঠিক করে দিবে। ভাড়া জনপ্রতি ১২০-১৫০ টাকা। বিভিন্ন কটেজ আছে এখানে একতলা দু তলা। তবে সিয়াম দিদির কটেজের ভালো নাম ডাক আছে। আর যদি কেওক্রাডং রাত যাপন করতে চান তাহলে কেওক্রাডং চুড়ায় উঠার আগেই একটা রেস্টুরেন্ট পাবেন উনাদের কটেজ আছে বললে ব্যবস্থা করে দিবে। ভাড়া ৩০০ টাকা জনপ্রতি।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় খাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="আপনি যে কটেজে থাকবেন সেখানেই খেতে পারেন। অথবা গাইডকে বললে মুরগীর ব্যবস্থা করে দিবে চাইলে নিজেরাও রান্না করতে পারেন। খাবার জনপ্রতি তারা নেই ১০০-১২০ টাকা। বগালেক ছাড়াও আপনি কেওক্রাডং এ দুপুরে খেতে পারবেন খাবারের নিয়ম মান দাম একই বগালেকের মত। এছাড়া বগালেক থেকে কেওক্রাডং যাবার পথে কয়েকটা পাড়া পাবেন সেখানেও কিছু খাবারের দোকান পাবেন যেমন চা , কলা, রুটি ও পাহাড়ি ফল পেপে, কমলা খেতে পারবেন।
+কেওক্রাডং এর পাদদেশে দার্জিলিং পাড়ায় পোছাতে প্রায় বিকাল হয় সেখানে আইরিন দিদির হোটেলে দুপুরের খাবার খেয়ে নিতে পারেন। অসাধারন রান্না আর আতিথেয়তা পাবেন। কি খাবেন তা গাইডকে আগে থেকে বলে রাখবেন, গাইড দিদির সাথে কথা বলে সব ঠিক করে রাখবে।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="গাইড"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="•	বাবুল – ০১৫৫২৪৩২৯৩৭ \n
+•	প্রকাশ – 01887-659360\n
+•	রঞ্জন – ০১৮২৭৭১৩৯৭৫\n
+•	আলী – ০১৮৩২৭৭৭২৮৭ \n
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কিছু দরকারি তথ্য"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="•	রুমা বাজারে থাকার জন্য কিছু হোটেল আছে, তবে দিনের মধ্যেই বগালেক চলে যাওয়া উচিত, রুমা বাজারে অবশ্যই বিকাল ৪ টার মধ্যে পৌছাতে হবে, ৪ টার পরে সেনাবাহিনী আর নতুন কোন চান্দের গাড়ি বগা লেক এর উদ্দেশে রওনা দেওয়ার অনুমতি দেয় না। রুমা বাজার থেকে চান্দের গাড়িতে ৪ ঘণ্টা লাগে বগা লেক যেতে।\n\n
+•	নিয়ম অনুযায়ী রুমা বাজার থেকে পাহাড়ে কোথাও বেড়াতে যেতে হলে আপনাকে গাইড নিতে হবে। বাজারে গাইড সমিতি আছে তাদের কাছে গেলেই গাইড পাবেন। গাইডকে সাথে নিয়ে আর্মি ক্যাম্পে গিয়ে নিয়ম অনুযায়ী নাম, ঠিকানা, ফোন নম্বর ইত্যাদি তথ্য নিবন্ধন করতে হবে। বড় দল গেলে আগে থেকে একটি কাগজে সবার নাম, ঠিকানা, পেশা, ফোন নম্বর ও বাসায় যোগাযোগের নম্বর সহ একটি তালিকা আগে থেকে প্রস্তুত করে নিয়ে যেতে পারেন।\n\n
+•	বান্দরাবন থেকে রুমা উপজেলা সদরে যেতে খরচ হবে জন প্রতি ১১০/- অথবা পুরো জীপ ভাড়া করলে ২২০০-২৫০০/- আর রুমা থেকে বগালেক যেতে জনপ্রতি ৮০-১০০/- অথবা পুরো জীপ ভাড়া করলে ২২০০-২৫০০/- পর্যন্ত।\n\n
+•	শীতকালে গাড়ি নিয়েই কেওক্রাডং চলে যাওয়া যায় কিন্তু বর্ষায় পায়ে হেটে যেতে হবে।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="সাকাহাফং পর্বতশৃঙ্গ"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সাকাহাফং পর্বত (Saka Haphong) বাংলাদেশের অন্যতম শীর্ষ পর্বত শৃঙ্গ হিসেবে মাথা উঁচু করে আছে, কেওক্রাডং বা তাজিংডং নয়। সাকাহাফং, মদক তং বা মোদক তুয়াং নামেও পরিচিত। প্রাচীন ম্যাপে একে লিখেছে মদল তং। কেউ বলে এটা হবে মদক ত্লং। স্থানীয় অধিবাসী মুরংরা একে বলে বর্ডার হুম। বোমরা একে বলে ক্ল্যাংময়, অনেক গাইডরাও এই নামেই বেশী বলে। ইউএস টপোগ্রাফি ম্যাপ, রাশিয়ান টপোগ্রাফি ম্যাপ, গুগল ম্যাপ, গুগল আর্থ, ভ্রমণ বাংলাদেশ, অ্যাডভেঞ্চার বিডিসহ বিভিন্ন অভিযাত্রীদের নেওয়া জিপিএস রিডিংয়ের মাধ্যমে জানা গেছে এখন সাকহাফংই বাংলাদেশের অন্যতম সর্বোচ্চ পর্বত শৃঙ্গ। মাপজোকের হিসাব অনুসারে ১০৫০ মিটার বা ৩৪৪৫ ফুট (জরিপ করা হয় ১২ ডিসেম্বর ২০১৪)।\n
+সাকাহাফং এর অবস্থানের কোর্ডিনেট – 21.7864° N, 92.6100° E
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কিভাবে যাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বিভিন্ন পরিবহনের বাসে ঢাকা/চট্টগ্রাম থেকে সরাসরি বান্দরবানে যাওয়া যায়। বান্দরবানে পৌঁছানোর পরে তিন দিক সাকাহাফং থেকে যাওয়া যায় – থানচি, রুমা বাজার ও রেমাক্রি বাজার দিয়ে। \n\n
+
+রুমা থেকে রুট\n
+•	বগা লেক – কেওক্রাডং – থাইক্যাং পাড়া – ( নতুন বোম পাড়া হয়ে ) দুলাচরণ পাড়া – হান্জরাই পাড়া – নিফিউ পাড়া – সামিট। প্রথম দিকের দলগুলো অবশ্য দুলাচরণ পাড়া থেকে শালুকিয়া পাড়া উঠে যেতো, এর পর নেফি্উ হয়ে সামিট। এখন আর শলুকিয়া খুব একটা যাওয়া হয় না।\n
+•	বগা লেক – কেও – থাইক্যাং পাড়া না ঢুকে কবরস্হান থেকে ডানে মোড় নিয়ে তাম্ল পাড়ার নীচ দিয়ে রেমাক্রি খাল – নতুন বোম পাড়া -খাল ধরে দুলাচরণ পাড়া – এরপর নেফি্উ পাড়া – সামিট।\n
+•	বর্ষাকালে খাল ধরে যাওয়া কঠিন বলে অনেক সময় থাইক্যাং পাড়া- তাম্ল পাড়া – হয়ে হান্জরাই পাড়া – নেফিউ – সামিট। ( তবে তাম্ল বা নতুন তাম্ল দিয়ে পথ অনেকটা ঘুর পথ, উঠা নামাও বেশী )\n
+•	বগা লেক – কেও – বাকলাই – সিম্পাম্পি – ( তাজিংডং সামিট বাড়তি) তারপর রেমাক্রি খাল নেমে হান্জরাই – নেফিউ – সামিট ( ঘুরপথ, পানির সমস্যা আছে, তবে তাজিং ডং বোনাস )
+\n\n
+
+
+
+
+থানচি থেকে রুট\n
+•	থানচি – বোর্ডিং পাড়া – শেরকর পাড়া – তাজিংডং – সিম্পাম্পি পাড়া -হান্জরাই পাড়া – নেফিউ পাড়া – সামিট। শেরকর পাড়া থেকে তাজিং ডং না গিয়ে দো তং পাড়া হয়ে সাজাই পাড়া দিয়েও যাওয়া যাবে, তবে শেরকর থেকে দোতং পাড়া ট্রেইল নেই জংগল আর ঝোপ-ঝার কেটে যেতে হবে। ( উঠা নামা বেশী, পানি ছায়া কম )\n
+•	থানচি – বোর্ডিং পাড়া – জিরি পথে কাইতং পাড়া -জিরি ধরে আগানো – সিম্পাম্পি পাড়া উঠা -হান্জরাই পাড়া – নেফিউ পাড়া – সামিট।
+\n\n
+রেমাক্রি থেকে রুট\n
+
+•	নাফা খুম – দুলা পাড়া – সাজাই পাড়া – নেফিউ পাড়া সামিট।\n
+•	নাফা খুম – জিন্না পাড়া – অমিয়াখুম – সাতভাই খুম হয়ে হান্জরাই পাড়া – সামিট\n
+•	নাফা খুম – জিন্না পাড়া – অমিয়াখুম – হয়ে সাজাই পাড়া – সামিট
+\n\n
+রুট ২ ও ৩ এ জিন্নাহ পাড়া বাদ দিয়ে থুইসা পাড়া অতিরাম পাড়া হয়েও যাওয়া যাবে। বর্তমানে এদিক দিয়েই বেশী জনপ্রিয়।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বান্দরবানের পাড়াগুলোতে রাতে থাকার ব্যবস্থা আছে। ক্যাম্পিং করার ইচ্ছে থাকলে তাবু নিয়ে যেতে পারেন।\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+
+
+</LinearLayout>

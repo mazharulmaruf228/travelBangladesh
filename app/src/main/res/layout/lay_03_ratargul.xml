@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="রাতারগুল সোয়াম্প ফরেস্ট"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="দেশের একমাত্র স্বীকৃত সোয়াম্প ফরেষ্ট বা জলার বন রাতারগুল সিলেটের গোয়াইনঘাট এলাকায় অবস্থিত। উত্তরে গোয়াইন নদী, দক্ষিণে বিশাল হাওর। মাঝখানে ‘জলার বন’ রাতারগুল যা বাংলার অ্যামাজন নামে পরিচিত। সিলেট জেলার সীমান্তবর্তী উপজেলা গোয়াইনঘাটের ফতেহপুর ইউনিয়নে রাতারগুলের অবস্থান। সিলেট নগরী থেকে দেশের একমাত্র স্বীকৃত রাতারগুল সোয়াম্প ফরেস্টের (Ratargul Swamp Forest)  দূরত্ব প্রায় ২৬ কিলোমিটার। অনিন্দ্য সুন্দর বিশাল এ বনের গাছ-গাছালির বেশিরভাগ অংশই বছরে চার থেকে সাত মাস থাকে পানির নিচে। \n
+এই বনের আয়তন তিন হাজার ৩২৫ দশমিক ৬১ একর। এর মধ্যে ৫০৪ একর বন ১৯৭৩ সালে বন্য প্রাণী অভয়ারণ্য ঘোষণা করা হয়। মূলত প্রাকৃতিক বন হলেও বেত, কদম, হিজল, মুর্তাসহ নানা জাতের পানি সহিষ্ণু গাছ লাগিয়েছে বন বিভাগ। বিশাল এ বনে রয়েছে জলসহিষ্ণু প্রায় ২৫ প্রজাতির উদ্ভিদ। বড়ই অদ্ভুত এই জলের রাজ্য। কোনো গাছের হাঁটু পর্যন্ত ডুবে আছে পানিতে। একটু ছোট যেগুলো, সেগুলো আবার শরীরের অর্ধেকই ডুবিয়ে আছে জলে। কোথাও চোখে পড়বে মাছ ধরার জাল পেতেছে জেলেরা। ঘন হয়ে জন্মানো গাছপালার কারণে কেমন অন্ধকার লাগবে পুরো বনটা। মাঝেমধ্যেই গাছের ডালপালা আটকে দিবে পথ। হাত দিয়ে ওগুলো সরিয়ে তৈরি করতে হবে পথ। \n
+হাওরের স্বচ্ছ পানির নিচে বনগুলো দৃশ্যমান থাকায় বর্ষাকালে অনেক পর্যটকের সমাগম ঘটে এখানে। আবার শীত মৌসুমে ভিন্নরূপ ধারণ করে এ বন। পানি কমার সঙ্গে সঙ্গে জেগে ওঠে মূর্তা ও জালি বেতের বাগান। সে সৌন্দর্য আবার আবার অন্য রকম! বন এভাবে জলে ডুবে থাকে বছরে চার থেকে সাত মাস। বর্ষা কাটলেই দেখা যাবে অন্য চেহারা। তখন বনের ভেতরের ছোট নালাগুলো পরিণত হবে পায়ে চলা পথে। সেই পথ দিয়ে হেঁটে অনায়াসে ঘুরে বেড়ানো যায়।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="রাতারগুলের নামকরণ"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সিলেটের স্থানীয় ভাষায় মুর্তা বা পাটিগাছ ‘রাতাগাছ’ নামে পরিচিত। সেই মুর্তা অথবা রাতাগাছের নামানুসারে এই বনের নাম হয়েছে রাতারগুল।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="রাতারগুলে কায়াকিং, গাইড"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="রাতারগুলে গেলে কায়াকিং করতে পারেন। কায়াকে ঘুরে আপনি যে মজা পাবেন সেটার সাথে নৌকায় ঘোরার মজা এক হবে না নিশ্চিত। কায়াক নিয়ে আপনি রাতারগুলের যেখানে সেখানে ঢুকতে পারবেন। ইচ্ছা হলেই থামতে পারবেন। যেটা নৌকা নিয়ে আপনি পারবেন না। আর রাতারগুলের ভিতরে ঢুকে কিছু সময় চুপচাপ কায়াকে বসে থাকবেন যেখানে গাছের ঘনত্বের কারনে সূর্যের আলো যায় না, চারিদিকে দিনের বেলাতেই ঝিঁঝিঁ পোকার ডাক, স্রোতের কল কল শব্দ, হটাৎ পাখির ডানা ঝাপটানোর শব্দ, পানির ভিতরে ঘাটি গেড়ে থাকা বিশাল বিশাল গাছ, ওয়াচ টাওয়ার হতে চারপাশের ভিউ। সর্বোপরি আপনি মুগ্ধ হতে বাধ্য! \n
+কায়াক দুই জন এক ঘন্টা – ৩০০/-। রাতারগুলে কায়াকিং করার জন্য ইনফরমেশন লাগলে – ০১৭১৫৬৪৪৪১০ – মামুন \n \n
+গাইড \n
+গাইড প্রতি ঘন্টা – ১৫০/- প্রথমবার গেলে গাইড নেওয়াটাই উত্তম। নাহলে পথ হারিয়ে ফেলতে পারেন।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="রাতারগুল যাওয়ার উপায়"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="রাতারগুল যাওয়া যায় বেশ কয়েকটি পথে। তবে যেভাবেই যান, যেতে হবে সিলেট থেকেই। \n
+ঢাকা থেকে প্রথমে যেতে হবে সিলেট শহর। সড়ক, রেল ও আকাশ পথে ঢাকা থেকে সরাসরি সিলেট আসতে পারেন। চট্টগ্রাম থেকেও সিলেটে আসা যায়। ঢাকা থেকে গ্রীনলাইন পরিবহন, সোহাগ পরিবহন, সৌদিয়া পরিবহনের এসি বাস যায় সিলেটে। ভাড়া ৮শ’ টাকা থেকে ১ হাজার টাকা। এছাড়া ঢাকার ফকিরাপুল, কমলাপুর, সায়দাবাদ প্রভৃতি জায়গা থেকে শ্যামলী পরিবহন, হানিফ এন্টারপ্রাইজ, সৌদিয়া, মামুন পরিবহন, সিলকম পরিবহন ইত্যাদি সংস্থার নন-এসি বাসও সিলেটে যায়। ভাড়া ৩শ’ টাকা থেকে ৫শ’ টাকা। \n
+ঢাকার কমলাপুর থেকে মঙ্গলবার ছাড়া সপ্তাহের প্রতিদিন সকাল ৬টা ৪০ মিনিটে ছেড়ে যায় আন্তঃনগর ট্রেন পারাবত এক্সপ্রেস। সপ্তাহের প্রতিদিন দুপুর ২টায় ছাড়ে জয়নন্তিকা এক্সপ্রেস। বুধবার ছাড়া সপ্তাহের প্রতিদিন রাত ৯টা ৫০ মিনিটে ছাড়ে উপবন এক্সপ্রেস। শ্রেণিভেদে ভাড়া ১৫০ টাকা থেকে ১ হাজার ১৮ টাকা। \n
+চট্টগ্রাম থেকে সোমবার ছাড়া প্রতিদিন সকাল ৮টায় সিলেটের উদ্দেশে ছাড়ে পাহাড়িকা এক্সপ্রেস। শনিবার ছাড়া প্রতিদিন রাত ৯টায় যায় উদয়ন এক্সপ্রেস। ভাড়া ১৯০ টাকা থেকে ১ হাজার ১শ’ ৯১ টাকা। \n
+ট্রেন এর টিকেট এর দাম: এসি বার্থ ৬৯৮ টাকা, এসি সিট ৪৬০ টাকা, ফার্স্ট ক্লাস বার্থ ৪২৫ টাকা, ফার্স্ট ক্লাস সিট ২৭০ টাকা. স্নিগ্ধা ৪৬০ টাকা, শোভন চেয়ার ১৮০ টাকা, শোভন ১৫০ টাকা, সুলভ ৯৫ টাকা। \n
+ঢাকার শাহজালাল আন্তর্জাতিক বিমানবন্দর থেকে বিমান বাংলাদেশ, ইউনাইটেড এয়ার, রিজেন্ট এয়ার, নভো এয়ার এবং ইউএস বাংলা এয়ারের বিমান প্রতিদিন যায় সিলেটের ওসমানী বিমানবন্দরে। বিমান বাংলাদেশ এয়ারলাইন্স এর অভ্যন্তরীণ রুট ঢাকা-সিলেট এর টিকেট মুল্য নিচে দেওয়া হলোঃ \n
+Super Saver: ৩২০০ টাকা \n
+Economy Saver: ৩৭০০ টাকা \n
+Economy Flexible: ৪২০০ টাকা \n
+Business Saver: ৫৯০০ টাকা \n
+Business Flexible: ৬৯০০ টাকা \n \n
+প্রথম উপায় \n
+সিলেট থেকে জাফলং – তামাবিল রোডে সারীঘাট হয়ে সরাসরি গোয়াইনঘাট পৌঁছানো। এরপর গোয়াইনঘাট থেকে রাতারগুল বিট অফিসে আসবার জন্য ট্রলার ভাড়া করতে হবে, ভাড়া ৯০০ – ১৫০০ এর মধ্যে (আসা-যাওয়া) আর সময় লাগে দুই ঘণ্টা। বিট অফিসে নেমে ডিঙ্গি নৌকা নিয়ে বনে ঢুকতে হবে, এতে ঘণ্টাপ্রতি লাগবে ২০০-৩০০ টাকা। \n \n
+দ্বিতীয় উপায় \n
+সিলেটের আম্বরখানা পয়েন্ট থেকে সিএনজি নিয়ে গোয়াইনঘাট পৌঁছানো, ভাড়া পড়বে ৫০০ টাকা। ওসমানী এয়ারপোর্ট–শালুটিকর হয়ে যাওয়া এই রাস্তাটা বর্ষাকালে খুবই সুন্দর। এরপর একইভাবে গোয়াইনঘাট থেকে রাতারগুল বিট অফিসে আসবার জন্য ট্রলার ভাড়া করতে হবে, ভাড়া ৮০০ – ১৫০০ টাকার মধ্যে (আসা-যাওয়া) আর সময় লাগে দুই ঘণ্টা। বিট অফিসে নেমে ডিঙ্গি নৌকা নিয়ে বনে ঢুকতে হবে, এতে মাঝি ঘণ্টাপ্রতি নেবে ২০০-৩০০ টাকা। \n \n
+তৃতীয় উপায়
+রাতারগুল- সিলেটের আম্বরখানা পয়েন্ট থেকে সিএনজি নিয়ে মোটরঘাট (সাহেব বাজার হয়ে) পৌঁছাতে হবে, ভাড়া নেবে ২০০-৩০০ টাকা আর সময় লাগবে ঘণ্টাখানেক। এরপর মোটরঘাট থেকে সরাসরি ডিঙ্গি নৌকা নিয়ে বনে চলে যাওয়া যায়, এতে ঘণ্টাপ্রতি ২০০-৩০০ টাকা লাগবে। এই তৃতীয় পথটিতেই সময় ও খরচ সবচেয়ে কম।
+
+
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="সিলেটে থাকার মত অনেকগুলো হোটেল আছে,সিলেটে আপনি আপনার প্রোয়োজন ও সামর্থ অনুযায়ী যে কোন ধরনের হোটেল পাবেন কয়েকটি পরিচিত হোটেল হল হোটেল হিল টাউন,গুলশান,দরগা গেইট,সুরমা,কায়কোবাদ ইত্যাদি। তবে ঈদের সময় সিট সংকট থাকতে পারে তাই যাওয়ার ২/৩ দিন আগে এডভান্স বুকিং দিলে ভালো হয়৷ লালা বাজার এলাকায় কম ভাড়ায় অনেক মানসম্মত রেস্ট হাউস আছে৷হোটেল অনুরাগ-এ সিঙ্গেল রুম ৪০০টাকা(দুই জন আরামসে থাকতে পারবেন), তিন বেডের রুম ৫০০টাকা(নরমালই ৪জন থাকতে পারবেন। \n
+শহরের শাহজালাল উপশহরে  হোটেল রোজ ভিউ (০৮২১-৭২১৪৩৯)। দরগা গেইটে হোটেল স্টার প্যাসিফিক  (০৮২১-৭২৭৯৪৫)। ভিআইপি রোডে হোটেল হিলটাউন (০৮২১-৭১৬০৭৭)। বন্দরবাজারে হোটেল মেট্রো ইন্টারন্যাশনাল (০৮২১-৭২১১৪৩)। নাইওরপুলে হোটেল ফরচুন গার্ডেন (০৮২১-৭১৫৫৯০)। জেল সড়কে হোটেল ডালাস (০৮২১-৭২০৯৪৫)। লিঙ্ক রোডে হোটেল গার্ডেন ইন (০৮২১-৮১৪৫০৭)। আম্বরখানায় হোটেল পলাশ (০৮২১-৭১৮৩০৯)। দরগা এলাকায় হোটেল দরগাগেইট (০৮২১-৭১৭০৬৬)। হোটেল উর্মি (০৮২১-৭১৪৫৬৩)। জিন্দাবাজারে হোটেল মুন লাইট (০৮২১-৭১৪৮৫০)। তালতলায় গুলশান সেন্টার (০৮২১-৭১০০১৮) ইত্যাদি।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় খাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="খাওয়ার জন্য সিলেটের জিন্দাবাজারে বেশ ভালো তিনটি খাওয়ার হোটেল আছে। হোটেল গুলো হচ্ছে পাঁচ ভাই,পানশি ও পালকি। এগুলোতে প্রায় ২৯ প্রকারের ভর্তা আছে।\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+
+
+</LinearLayout>

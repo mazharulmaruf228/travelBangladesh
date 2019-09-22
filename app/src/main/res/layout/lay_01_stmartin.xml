@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:padding="10dp"
+        android:text="সেন্ট মার্টিন’স দ্বীপ"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="22dp"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:id="@+id/imageSlider"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:background="@android:color/black"
+        android:paddingBottom="30dp"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="সেন্ট মার্টিন’স দ্বীপ বাংলাদেশের সর্ব দক্ষিণে বঙ্গোপসাগরের উত্তর-পূর্বাংশে অবস্থিত একটি প্রবাল দ্বীপ (Coral Island)। এটি কক্সবাজার জেলার টেকনাফ হতে প্রায় ৯ কিলোমিটার দক্ষিণে এবং মায়ানমার-এর উপকূল হতে ৮ কিলোমিটার পশ্চিমে নাফ নদীর মোহনায় অবস্থিত। প্রচুর নারিকেল পাওয়া যায় বলে দারুচিনির দ্বীপ (Daruchini Dwip) মুভির স্যুটিং হয়েছিল।
+\n সেন্ট মার্টিন’স দ্বীপটি একটি জনপ্রিয় পর্যটন কেন্দ্র। পর্যটন মৌসুমে এখানে প্রতিদিন ৫টি লঞ্চ বাংলাদেশের মূল ভূখন্ড হতে আসা যাওয়া করে। সেন্ট মার্টিনের আসল মজা একরাত না থাকলে উপভোগ করা সম্ভব নয়। আরো ভাল হয় দুইরাত থাকলে। সেক্ষেত্রে ১টা দিন ছেড়া দ্বীপের (Chera Dwip) জন্য, আরেকটা দিন"
+        android:textColor="#000000"
+
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:text="সেন্ট মার্টিনে বিদ্যুৎ কতক্ষন থাকে?"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="সেন্ট মার্টিনে পিডিবি বা পল্লী-বিদ্যুত এর সংযোগ নাই। পুরোটাই জেনারেটর নির্ভর। রিসোর্ট-হোটেলগুলো সন্ধ্যা থেকে সাধারণত রাত ১০টা-১১টা পর্যন্ত জেনারেটর চালায়। দিনের বেলায় পানির পাম্প ছাড়ার জন্য কিছুটা সময় চালু রাখতে পারে। শীতকালে ফ্যান লাগে না বলে দিনে কারেন্টের অভাব টের পাওয়াও যায় না। সমস্যা হয় মোবাইল, ক্যামেরা ল্যাপটপ এসব চার্জ করা নিয়ে । রাতের বেলা জেটি অর্থাত জাহাজ ঘাটে সারি সারি রেস্টুরেন্টের আলো-ঝলমলে পরিবেশে মনেই হয় না দ্বীপে কারেন্ট নাই। এরা অনেক রাত অবধি জেনারেটর চালু রাখে।"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:paddingRight="10dp"
+        android:text="সেন্ট মার্টিন’স এ ঘুরতে যাওয়ার জন্যে কিছু টিপস"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="-সেন্টমার্টিন যাওয়ার জন্য ঢাকা থেকেই, কেয়ারীসহ বেশ কিছু ট্রাভেল এজেন্সির সাথে যোগাযোগ করে যেতে পারেন। \n
+-নভেম্বর থেকে মার্চ পযন্ত মাত্র ৪ মাস জাহাজ চলে। অন্য সময় যেতে হলে ট্রলারে করে যেতে হবে। \n
+-সেন্টমার্টিনে এখন অনেক হোটেল, রিসোর্ট ও কটেজ আছে তাই থাকার জায়গার অভাব হয় না। \n
+-সাশ্রয়ী দামে থাকতে শুক্রবার-শনিবার দ্বীপে না যাওয়াই ভালো। \n
+-দ্বীপে সবকিছু বাইরে থেকে যায়, তাই খাবার খরচ তুলনামূলক বেশি। \n
+-তিনদিনে জনপ্রতি খরচ হবে ৫-৬ হাজার টাকা। দলবল বড় করে আরো কমে ৩-সাড়ে ৩ হাজার টাকায় ঘুরে আসা যায়।
+"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="সেন্ট মার্টিন’স যাওয়ার উপায়"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="ঢাকা, চট্টগ্রাম এবং কক্সবাজার থেকে বাসে করে টেকনাফ যাওয়া যাবে। চট্টগ্রাম ও কক্সবাজার থেকে নিয়মিত বাস পাওয়া যায় টেকনাফ এর উদ্দেশ্যে। কক্সবাজার থেকে মাইক্রো বাস ভাড়া করেও টেকনাফ যাওয়া যায়। \n
+১।  ঢাকা থেকে বাসে টেকনাফ \n
+ঢাকার ফকিরাপুল ও সায়েদাবাদে টেকনাফের বাস পাওয়া যায়। ঈগল, মডার্ন লাইন, এস আলম, শ্যামলী, গ্রীন লাইন ইত্যাদি বাস টেকনাফ যায়।  ১০-১৩ ঘণ্টা লাগে পৌঁছাতে। ঢাকা থেকে সন্ধ্যা ৭ টার গাড়িতে উঠলে সকালে ৬-৭ টার মধ্য দমদমিয়া জাহাজ ঘাট বা টেকনাফ শহরে নেমে জাহাজ বা ট্রলারে যেতে পারেন। তবে লম্বা বন্ধ থাকলে ঢাকা- চিটাগাং রোড়ে যানজট বেশি হওয়ার কারণে অনেকের পৌছাতে দেরি হয়ে যায়। সেক্ষেত্রে জাহাজ মিস হওয়ার সম্ভাবনা থাকে। কারণ সব জাহাজ ৯:৩০ টায় ছেড়ে যায়। সেক্ষেত্রে ট্রলারে করে যাওয়া যায়। \n
+২। টেকনাফ থেকে জাহাজে সেন্টমার্টিন \n
+টেকনাফের জাহাজ ঘাটে গিয়ে আপনাকে সী ট্রাকের/শীপের টিকেট কাটতে হবে। টেকনাফ হতে সেন্টমার্টিনের দুরত্ব ৯ কিমি। উত্তাল সমুদ্র পাড়ি দিয়ে যেতে হয় এখানে। শীত মৌসুমে সাগর শান্ত থাকে তাই এই সময় এখানে যাওয়া অনেক বেশি নিরাপদ। এই পর্যটন মৌসুমে এখানে টেকনাফ হতে সেন্ট মার্টিন পর্যন্ত গ্রীন লাইনের ওয়াটার বাস, এল সি কুতুবদিয়া, কাজল, কেয়ারী সিন্দবাদ সহ বেশ কয়েকটি জাহাজ বা সী-ট্রাক চলাচল করে। সকাল ১০ টায় এই নৌযানটি সেন্ট মার্টিনের উদ্দেশ্যে ছেড়ে যায় এবং বিকাল ৩ টায় ফিরে আসে। \n
+
+এছাড়াও ট্রলার ও স্পীড বোটে করে যাওয়া যায় সেন্টমার্টিন। সী ট্রাক গুলো এপ্রিল মাস পর্যন্ত চলাচল করে। এর পর বৈরি আবহাওয়ার কারণে প্রশাসন একে চলতে দেয় না। তবে যারা বৈরি মৌসুমে এডভেঞ্চার হিসেবে যেতে চান সেন্টমার্টিন তারা ট্রলার ভাড়া করে যেতে পারেন। তবে এই যাত্রাটি খুব একটা নিরাপদ নয়। সাধারণত দুর্ঘটনা ঘটে না, তবে ঘটে যেতে পারে। তাই সাবধান। কিন্তু উত্তাল সাগরের প্রকৃত রূপ দেখা কিংবা নির্জন দ্বীপে বসে বৃষ্টিস্নান করার লোভ যারা সামলাতে না পারেন তাদের জন্য ট্রলার ছাড়া বিকল্প কোনো ব্যবস্থা নেই, ৮০০ টাকায় ট্রলার ভাড়া করা যাবে অথবা প্রতি জন ১০০ টাকা করে ভাড়া দিয়েও যাওয়া যাবে।
+\n
+কেয়ারী সিন্দবাদ এর যোগযোগ / ফোন নাম্বারঃ  ০১৮১৭২১০৪২১, ০৩৪১-৬২৮১২, ৮১২৫৮৮১
+"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="সেন্ট মার্টিন’স এ থাকার হোটেল/রিসোর্ট"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="১। অবকাশ পর্যটন লি। পশ্চিম বিচ, ভাড়া ১৫০০-৩০০০। যোগাযোগ : ০১৭১৬৭৮৯৬৩৪ \n
+২। ব্যাগস বারী রিসোর্ট, পশ্চিম পাড়া, ভাড়া ১০০০-২০০০। যোগাযোগ : ০১৭৮৭০২২২০ \n
+৩। কিংসুক ইকো রিসোর্ট, গলাচিপা, ভাড়া ১৫০০-৩০০০। যোগাযোগ : ০১৭৫৩২২২২৮৬ \n
+৪। ব্লু মেরিন রিসোর্ট , পশ্চিম বীচ জেটির পাশে, ভাড়া ১৫০০-৫০০০। যোগাযোগ : ০১৭১৩৩৯৯০০১ \n
+৫। সিটিভি রিসোর্ট, পশ্চিম বীচ, ভাড়া ১০০০-৩০০০। যোগাযোগ :০১৮১৫৬৩২০৩৭
+"
+        android:textColor="@color/textColor"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:paddingLeft="28dp"
+        android:text="কোথায় খাবেন"
+        android:textColor="@color/titleTextColor"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+        android:text="এখানে প্রায় সকল আবাসিক হোটেলের রেস্টুরেন্ট আছে, তাই আপনি চাইলে ওখানে খেয়ে নিতে পারেন। এ ছাড়া সব খাবার হোটেলের বাইরে টেবিলে সাজিয়ে রাখা হরেক রকমের জ্যান্ত মাছ থেকে বেছে নিয়ে অর্ডার দিতে পারবেন। রাতের বেলা বার-বি-কিউ করতে পারবেন, মাছ বাছাই করে ওদের বলে দিলে ওরাই করে দিবে আপনাকে। \n\n"
+        android:textColor="@color/textColor"
+
+
+
+        />
+
+</LinearLayout>

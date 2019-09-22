@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="খৈয়াছড়া ঝর্ণা ও নাপিত্তাছড়া ট্রেইল"
+        android:textSize="22dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:background="#000000"
+
+
+        />
+
+    <com.smarteist.autoimageslider.SliderLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/imageSlider"
+        android:paddingBottom="30dp"
+        android:background="@android:color/black"
+        >
+
+    </com.smarteist.autoimageslider.SliderLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="খৈয়াছড়া ঝর্ণা"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="খৈয়াছড়া ঝর্ণা (Khaiyachora Waterfalls) বাংলাদেশের চট্টগ্রামের মিরসরাইয়ের পাহাড়ে অবস্থিত একটি জলপ্রপাত। মিরসরাই এর এই নয় স্টেপ এর ঝর্না বিস্ময়কর। খৈয়াছড়া – আকার আকৃতি ও গঠনশৈলির দিক দিয়ে এটা নিঃসন্দেহে এখনও পর্যন্ত বাংলাদেশের সবচেয়ে বড় ঝর্ণাগুলোর ১টি । এর মোট ৯ টি মুল ধাপ এবং অনেকগুলো বিচ্ছিন্ন ধাপ প্রমান করে যে এমন আর একটা ঝর্ণাও বাংলাদেশে এখন পর্যন্ত দেখা যায়নি। খৈয়াছড়াতে সব সময় জ্বলে (এমন কি বৃষ্টিতেও) এমন একটি পাহাড় আছে, সেখানে আগুন কখনও নিভে না। প্রকৃতির নান্দনিক তুলিতে আঁকা সৌন্দর্য দেখে মুগ্ধ হচ্ছে দেশের ভ্রমণপিয়াসী মানুষ। অনেকে রাতের বেলায় চাঁদের আলোয় ঝর্ণার অপরূপ সৌন্দর্য উপভোগ করতে পাহাড়ের পাদদেশে তাবু টাঙ্গিয়ে অবস্থান করছেন। প্রকৃতির অপরূপ সৃষ্টি সেতুবন্ধন করে, সবুজের চাদরে ঢাকা বনানী রূপের আগুন ঝরায়, যেখানে প্রকৃতি খেলা করে আপন মনে, ঝুম ঝুম শব্দে বয়ে চলা ঝর্ণাধারায় গা ভিজিয়ে মানুষ যান্ত্রিক জীবনের অবসাদ থেকে নিজেকে ধুয়ে সজীব করে তুলছে খৈয়াছরা ঝর্ণায়। অনেকগুলো বিচ্ছিন্ন ধাপ, যা বাংলাদেশের আর কোন ঝর্ণাতে এখনও পর্যন্ত দেখা যায়নি। তাই ‘খৈয়াছড়া’ কে বলা হয় বাংলাদেশের ‘ঝর্ণা রাণী‘। \n
+জায়গাটা মিরসরাই ঠাকুরদা দিঘির আগেই পড়ে। গ্রামের সবুজ শ্যামল আঁকা বাঁকা মেঠো পথ পেরিয়ে শরীরটা একটু হলেও ভিজিয়ে নেয়া যায় নিঃসন্দেহে। মিরসরাইয়ের এই খৈয়াছড়ায় নয় স্তরের ঝর্ণা দেখতে দেশি বিদেশি পর্যটকের ভিড় পড়েছে। দেশের অন্যতম বড় প্রাকৃতিক ঝর্ণাটি দেখতে প্রতিদিন ছুটে যাচ্ছে হাজার হাজার দেশি বিদেশি পর্যটক। খৈয়াছড়া এলাকার পাহাড়ে অবস্থান বলে এর নামকরণ করা হয়েছে খৈয়াছড়া ঝর্ণা। মিরসরাই উপজেলার খৈয়াছড়া ইউনিয়নের বড়তাকিয়া বাজারের উত্তর পাশে ঢাকা-চট্টগ্রাম মহাসড়কের ৪.২ কিলোমিটার পূর্বে ঝর্ণার অবস্থান। এর মধ্যে এক কিলোমিটার পথ গাড়িতে যাওয়ার পর বাকি পথ যেতে হবে পায়ে হেঁটে। বাঁশের সাকো, ক্ষেতের আইল, আঁকাবাকা পাহাড়ী পথ, ছরা, অন্তত ৪টি পাহাড় পেরিয়ে যখন ঝর্ণার স্বচ্ছ জলে যখন গা ভিজাবে পর্যটক, তখন মনে হবে পথের এই দুরত্ব খুব সামান্য।\n
+ছুটির দিনগুলোতে পর্যটকরা সবুজে সমারোহ পাহাড় আর ঝর্ণা দেখতে যেখানে প্রকৃতির অপরুপ সৃষ্টি সেতুবন্ধন করে। পাহাড়ের সবুজ রং আর ঝর্ণার স্বচ্ছ জল মিলেমিশে একাকার হয়েছে মিরসরাইয়ের প্রাকৃতিক জলপ্রপাত খৈয়াছড়া ঝর্ণায়। প্রকৃতির নান্দনিক তুলিতে আঁকা এ ছবি দেখে মুগ্ধ হচ্ছে দেশের ভ্রমণপিয়াসী মানুষ।
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="যাওয়ার উপায়"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ঢাকার যেকোনো বাস কাউন্টার থেকে চট্টগ্রামগামী বাসে উঠবেন। যাওয়ার পথে ঢাকা চট্টগ্রাম রোডে চট্টগ্রামের মিরসরাই পার হয়ে বড়তাকিয়া বাজারের আগে খৈয়াছড়া আইডিয়াল স্কুলের সামনে নামবেন। পথে যানজট না থাকলে ৪/৫ ঘণ্টার মধ্যেই পৌঁছে যাবেন মিরেরসরাই। ঢাকার ফকিরাপুল, সায়দাবাদ থেকে সোহাগ পরিবহন, গ্রীন লাইন পরিবহন, সৌদিয়া পরিবহন, হানিফ এন্টারপ্রাইজ, টি আর ট্রাভেলসের এসি বাস যায় চট্টগ্রাম। ভাড়া ১ হাজার থেকে ১ হাজার ২শ’ টাকা। এছাড়া শ্যামলী, হানিফ, সৌদিয়া, ইউনিক, এস আলম ইত্যাদি পরিবহনের নন এসি বাসও চলে এ পথে। ভাড়া ৪৮০ টাকা।\n
+বড়তাকিয়া বাজারে খৈয়াছড়া আইডিয়াল স্কুলের কাছে গিয়ে স্থানীয় লোকদের জিজ্ঞাসা করলেই তারা বলে দেবে কোন পথে যেতে হবে। ঢাকা চট্টগ্রাম রোডে নেমে পূর্বদিকে গ্রামের রাস্তা ধরে দশ মিনিট হাঁটলে পথে রেললাইন পড়বে, রেললাইন পার হয়ে আরো দশ মিনিট হাঁটলে ঝিরি পাবেন। ইচ্ছে করলে ঢাকা চট্টগ্রাম রোড থেকে ঝিরি পর্যন্ত আপনি সি.এন.জি নিয়ে (৭০-৮০টাকা লাগবে) যেতে পারবেন। ঐখান থেকে আপনাকে খৈয়াছড়া ঝর্ণার মূল ট্র্যাকিং শুরু করতে হবে। প্রয়োজন হলে সেখান থেকে গাইডও নিয়ে নিতে পারেন। ঝর্ণায় যাওয়ার রাস্তা একটিই, আর পথে আরো অনেক অ্যাডভেঞ্চারপিয়াসীর দেখা পাবেন, কাজেই পথ হারানোর ভয় তেমন একটা নেই বললেই চলে। এছাড়া সীতাকুন্ড বা মিরেরসরাই নেমে ঐখান থেকে সি.এন.জি নিয়েও আসতে পারেন ঝিরির আগ পর্যন্ত।\n
+জঙ্গলের ভেতর দিয়ে পাহাড়ি ঝিরিপথ ধরে প্রায় দেড় ঘণ্টা হাঁটলে দেখা পাবেন ঝর্ণার। হাতে সময় নিয়ে যাওয়া ভালো, ঝর্ণা দেখে ফিরতে ফিরতে বেশ সময় লাগবে। খাবার সঙ্গে করে নিয়ে যেতে পারেন, তবে ঝর্ণায় যাওয়ার পথেই অন্তত তিনটি জায়গায় দেখা মিলবে স্থানীয় হোটেলের, চাইলে সেখান থেকেও খেয়ে নিতে পারেন। খাবারের দাম তুলনামূলক সস্তাই হবে।\n
+যদি ২ দিন সময় নিয়ে যান তবে সাথে ঘুরে আসতে পারেন নাপিত্তাছড়ার ৩টি ঝর্ণা , সীতাকুন্ড ইকো পার্কে সুপ্তধারা ঝর্ণা, সহস্রধারা ঝর্ণা, মহামায়া লেক ও ঝর্ণা, মহুরী প্রজেক্ট ও উইন্ডমিল। এছাড়াও আরো সময় থাকলে যেতে পারেন চন্দ্রনাথ পাহাড়ের ওপরে যেখান থেকে বঙ্গোপসাগর দেখা যায়।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="নাপিত্তাছড়া ট্রেইল"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="চট্টগ্রামের মিরসরাই এর নাপিত্তাছড়া ট্রেইল (Napitta Chora Trail) এর কথা সবাই আগেই শুনেছেন। নাপিত্তাছড়া যেতে হলে মিরসরাই এর নদুয়ার বাজার/হাট (নদুইয়ার/নয়দুয়ারীর বাজার/হাট) যেতে হয়। এখানে আসলে ঝর্ণা আছে তিনটা। ঝর্ণা তিনটার নাম হলো কুপিকাটাকুম, মিঠাছড়ি এবং বান্দরকুম বা বান্দরিছড়া। আর ঝর্ণাগুলোতে যাওয়ার ঝিরিপথটাকে নাপিত্তাছড়া ট্রেইল বলে। \n
+নয়দুয়ারি বাজার থেকে যাত্রা শুরু করুন। চাইলে গ্রাম থেকে একজন গাইড নিয়ে নিতে পারেন, ৪০০-৫০০ টাকার মত নিবে ৪-৫ ঘন্টার জন্যে। এরপর পাহাড়ী অরণ্যে ঝিরিপথ বরাবর চলা শুরু করুন। ঝর্ণা ৩টি বেশি দূরে নয়। ৩০/৪০ মিনিট যাওয়ার পর প্রথম ঝর্ণা কুপিকাটাকুম পেয়ে যাবেন। অনেক সুন্দর একটা ঝর্ণা। ঝর্ণাতে পানির পরিমাণও ভালোই। ঝর্ণাটির সামনের পানির অংশটি কিছুটা গভীর। তাই একেবারে ঝর্ণার সামনে যেতে হলে আপনাকে সাঁতার কেটে যেতে হবে। ঝর্ণার পানি বেশ ঠান্ডা।\n
+কুপিকাটাকুমে কিছুক্ষণ থাকার পর ২য় ঝর্ণা মিঠাছড়ির উদ্দেশ্যে যাত্রা শুরু করুন। মিঠাছড়ি ঝর্ণাতে যাওয়ার সময় ছোট একটি পাহাড়ের প্রায় খাড়া একটি ঢাল বেয়ে উপরে উঠতে হয়। এসময় কিছুটা সতর্ক থাকতে হয়। যাই হোক, ঝর্ণাটি বেশ কাছেই। ২০ মিনিটের মধ্যেই মিঠাছড়ি ঝর্ণাতে পৌঁছে যাবেন। ঝর্ণাটির উচ্চতা বেশ। উপর থেকে পানি পতনের সময় অর্ধেকটা অংশ পার হবার পর দুই ভাগ হয়ে দুই দিকে পানি পড়েছে। বর্ষার সময় এই ঝর্ণাটি খুব সুন্দর দেখায়।\n
+এখানে কিছুক্ষণ থাকার পর ৩য় ঝর্ণা বান্দরকুম বা বান্দরিছড়ার উদ্দেশ্যে যাত্রা শুরু করুন। প্রায় ৪০/৪৫ মিনিট ঝিরি পথ বরাবর হাটার পর ঝর্ণাটি পেয়ে যাবেন। এই ঝর্ণাটিও বেশ সুন্দর। ৩টি ঝর্ণার মধ্যে এই ঝর্ণাটির উচ্চতা সবচেয়ে বেশি। ঝর্ণাতে যাওয়ার ঝিরি পথটা অনেক সুন্দর। তেমন কোন রিস্ক কোথাও নেই। এজন্য বর্ষার সময় আসাটাই সবচেয়ে ভাল সময়, তাহলে ঝর্ণার সর্বোচ্চ সৌন্দর্য উপভোগ করতে পারবেন।
+"
+        android:textColor="#000000"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="যাওয়ার উপায়"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="আপনাকে চট্টগ্রামের মিরসরাই এর নয়দুয়ারি বাজার যেতে হবে। বাসে চট্টগ্রাম গেলে আপনি যাত্রার সময়ই সহজে মিরসরাই এর নয়দুয়ারি বাজার নেমে যেতে পারবেন। যদি বাসের ড্রাইভার নয়দুয়ারি না চেনে তবে মীরসরাই বাজারে নেমে সিএনজি করে নদুয়ার হাট যেতে পারবেন। জনপ্রতি ১০টাকা নেবে লোকাল সিএনজি। কিন্তু আপনি যদি ট্রেনে করে চিটাগাং শহরে নামেন, তাহলে আবার বাসে করে প্রায় দেড় ঘন্টার উল্টা জার্নি করে আপনাকে মিরসরাই আসতে হবে।\n
+চট্টগ্রাম শহর এর অলংকার মোড় থেকে চয়েস বাস মিরসরাই যায়। ভাড়া পার পার্সন ৮০ টাকা।\n
+কিংবা ফেনীর বাসে উঠে ফেনী নেমে সেখান থেকে লোকাল বাসে মিরসরাই এর নয়দুয়ারি নামবেন। নয়দুয়ারি বাজার থেকে সোজা ৪০ মিনিটের পায়ে হাঁটার রাস্তা।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় থাকবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="বড়তাকিয়া বাজারে থাকার কোন হোটেল নেই। কিন্তু আপনি চাইলে চেয়ারম্যানের বাংলোয় উঠতে পারেন। এছাড়াও স্থানীয় লোকদের সাথে ব্যবস্থা করে তাদের বাড়ীতে থাকতে পারবেন। মিরসরাই বা সীতাকুন্ডে আপনি থাকার জন্য বেশ কিছু স্থানীয় হোটেল পাবেন। মিরসরাই বা সীতাকুন্ডে খাওয়ার জন্য অনেক রেস্টুরেন্টও পাবেন। সীতাকুণ্ড বাজার গেলে সেখানে হোটেল সাইমুন আছে। ভালো হোটেলে থাকতে চাইলে চট্টগ্রাম চলে আসতে হবে। নয়দুয়ারি বাজারে খুজলে মধ্য মানের থাকার হোটেল পাওয়া যেতে পারে।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="কোথায় খাবেন"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="নদুয়ারহাটে দুপুরের খাবারের ব্যবস্থা নাই। এক্ষেত্রে মীরসরাই বাজারে এসে খেতে পারবেন।"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/text_gradient"
+    android:text="গাইড"
+    android:textSize="18dp"
+    android:textColor="@color/titleTextColor"
+    android:textStyle="bold"
+    android:paddingLeft="25dp"
+    android:paddingRight="10dp"
+    />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="স্থানীয় মানুষজনকে গাইড হিসেবে নিয়ে নিতে পারেন। আপনারা আপনাদের সুবিধা মত দামে কথা বলে ঠিক করে নিবেন।\n
+•	তারেক – ০১৮৩২৫৮৬৭৬৭
+•	সোহেল – ০১৮৫২৪৮৩৯৯০
+\n\n"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/text_gradient"
+        android:text="সাথে যা নিতে হবে / প্রস্তুতি"
+        android:textSize="18dp"
+        android:textColor="@color/titleTextColor"
+        android:textStyle="bold"
+        android:paddingLeft="25dp"
+        android:paddingRight="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="•	যেহেতু পাহাড়ি রাস্তা, সেহেতু সাথে কিছু ঔষধ নেয়া যেতে পারে।\n
+•	কাটাছেড়ার হতে পারে তাই কিছু ব্যান্ডেজ আর ডেটল জাতীয় এন্টিসেপটিক।\n
+•	কিছু জায়গায় পাহাড় ট্র্যাক করতে হয়, সেজন্য দড়ি নিলে ভাল।\n
+•	যারা সাতার জানেন না তারা সাথে পারলে লাইফ জ্যাকেট নিতে পারেন।\n
+•	চট্টগ্রাম কিন্তু ম্যালেরিয়াপ্রবণ একটি এলাকা। সাধারণত ম্যালেরিয়া প্রবণ এলাকাতে যাওয়ার আগে সতর্কতা হিসেবে যাত্রা শুরুর আগের ১ সপ্তাহ থেকে যাত্রা শেষ হবার পর ৪ সপ্তাহ পর্যন্ত ডক্সিসাইক্লিন ট্যাবলেট (১০০মি.গ্রা.) খেতে হয়। তারপরও পাহাড়ী এলাকাতে যাওয়ার আগে অবশ্যই একজন ডাক্তারের সাথে কথা বলে যাবেন।
+"
+        android:textColor="@color/textColor"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="10dp"
+
+        />
+
+</LinearLayout>
